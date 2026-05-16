@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa",
+    "a  "
+  ],
+  "key": {
+    "a": "wealizh:copper_thread"
+  },
+  "result": {
+    "id": "wealizh:copper_coil",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.3,
+  "cookingtime": 400,
+  "ingredient": "wealizh:decayed_log",
+  "result": {
+    "id": "wealizh:charcoalized_log"
+  }
+}

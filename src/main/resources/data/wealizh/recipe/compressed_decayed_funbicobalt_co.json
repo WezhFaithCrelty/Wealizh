@@ -1,0 +1,20 @@
+{
+  "type": "wealizh:compress_jei",
+  "ingredients": [
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt",
+    "wealizh:decayed_funbicobalt"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:compressed_decayed_funbicobalt",
+      "count": 1
+    }
+  ]
+}

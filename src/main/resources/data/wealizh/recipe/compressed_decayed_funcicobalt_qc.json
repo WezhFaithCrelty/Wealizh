@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:qualitative_change_jei",
+  "ingredients": [
+    "wealizh:compressed_funbicobalt"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:compressed_decayed_funbicobalt",
+      "count": 1
+    }
+  ]
+}

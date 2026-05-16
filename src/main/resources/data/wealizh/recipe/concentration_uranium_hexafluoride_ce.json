@@ -1,0 +1,17 @@
+{
+  "type": "wealizh:centrifugal_extraction_jei",
+  "ingredients": [
+    "wealizh:uranium_hexafluoride",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:concentration_uranium_hexafluoride",
+      "count": 1
+    },
+    {
+      "id": "wealizh:depleted_uranium_hexafluoride",
+      "count": 1
+    }
+  ]
+}

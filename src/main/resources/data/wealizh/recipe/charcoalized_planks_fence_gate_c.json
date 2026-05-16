@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:charcoalized_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "wealizh:charcoalized_planks_fence_gate",
+    "count": 1
+  }
+}

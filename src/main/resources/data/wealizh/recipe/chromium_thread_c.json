@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:chromium_ingot",
+    "b": "wealizh:chromium_nugget"
+  },
+  "result": {
+    "id": "wealizh:chromium_thread",
+    "count": 2
+  }
+}

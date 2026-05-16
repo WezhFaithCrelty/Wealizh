@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:quantitative_transformation_jei",
+  "ingredients": [
+    "wealizh:compressed_decayed_funbicobalt",
+    "wealizh:quantitative_transformation_substance_nucleus"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:compressed_funbicobalt",
+      "count": 1
+    }
+  ]
+}

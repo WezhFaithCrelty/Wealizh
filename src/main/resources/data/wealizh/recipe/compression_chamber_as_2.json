@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "minecraft:iron_trapdoor",
+    "wealizh:steel_plate",
+    "wealizh:steel_plate",
+    "wealizh:steel_plate",
+    "#wealizh:steel_block",
+    "wealizh:steel_frame",
+    "wealizh:solid_plate",
+    "wealizh:solid_plate",
+    "wealizh:solid_plate",
+    "wealizh:solid_plate",
+    "wealizh:steel_frame",
+    "#wealizh:steel_block",
+    "wealizh:copper_cable",
+    "wealizh:silver_block",
+    "wealizh:aluminum_block",
+    "wealizh:gold_cable",
+    "wealizh:brass_cable",
+    "wealizh:steel_ingot",
+    "wealizh:gear_assembly",
+    "minecraft:redstone"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:compression_chamber",
+      "count": 1
+    }
+  ]
+}

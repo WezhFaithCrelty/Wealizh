@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "cbb"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:gold_ingot",
+    "c": "wealizh:steel_ingot",
+    "d": "wealizh:copper_nugget"
+  },
+  "result": {
+    "id": "wealizh:component_housing_gold",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:chromium_block"
+  },
+  "result": {
+    "id": "wealizh:chromium_ingot",
+    "count": 9
+  }
+}

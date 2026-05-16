@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:charcoalized_planks"
+  },
+  "result": {
+    "id": "wealizh:charcoalized_planks_stair",
+    "count": 4
+  }
+}

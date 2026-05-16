@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:deepslate_chromium_ore",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:chromium_powder",
+      "count": 2
+    }
+  ]
+}

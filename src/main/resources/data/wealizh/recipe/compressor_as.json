@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:brass_block",
+    "wealizh:steel_plate",
+    "wealizh:steel_plate",
+    "wealizh:steel_plate",
+    "wealizh:gold_plate",
+    "wealizh:steel_frame",
+    "wealizh:steel_plate",
+    "wealizh:solid_plate",
+    "wealizh:solid_plate",
+    "wealizh:steel_plate",
+    "wealizh:steel_frame",
+    "wealizh:gold_plate",
+    "#wealizh:battery/battery",
+    "wealizh:aluminum_ingot",
+    "wealizh:silver_ingot",
+    "wealizh:graphite",
+    "wealizh:gear_assembly",
+    "#wealizh:iron_block",
+    "wealizh:silver_thread",
+    "wealizh:red_copper_cable"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:compressor",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:charred_stone",
+  "result": {
+    "id": "wealizh:charred_stone_wall",
+    "count": 1
+  }
+}

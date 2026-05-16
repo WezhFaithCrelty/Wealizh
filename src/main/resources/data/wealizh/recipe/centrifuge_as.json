@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "minecraft:iron_trapdoor",
+    "wealizh:iron_plate",
+    "#wealizh:battery/battery",
+    "wealizh:steel_frame",
+    "wealizh:red_copper_cable",
+    "wealizh:red_copper_coil",
+    "minecraft:redstone",
+    "wealizh:brass_cable",
+    "wealizh:steel_frame",
+    "#wealizh:battery/battery",
+    "#wealizh:iron_block",
+    "wealizh:gear_assembly",
+    "wealizh:gear_assembly",
+    "#wealizh:iron_block",
+    "wealizh:steel_plate",
+    "wealizh:aluminum_plate",
+    "wealizh:aluminum_plate",
+    "wealizh:steel_plate"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:centrifuge",
+      "count": 1
+    }
+  ]
+}

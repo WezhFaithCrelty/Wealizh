@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "bab"
+  ],
+  "key": {
+    "a": "wealizh:iron_thread",
+    "b": "minecraft:chain",
+    "c": "wealizh:silver_thread"
+  },
+  "result": {
+    "id": "minecraft:chainmail_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:decayed_funbicobalt_block"
+  },
+  "result": {
+    "id": "wealizh:decayed_funbicobalt",
+    "count": 9
+  }
+}

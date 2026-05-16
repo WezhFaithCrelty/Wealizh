@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:gunpowder",
+    "b": "#minecraft:sand"
+  },
+  "result": {
+    "id": "wealizh:composite_gunpowder",
+    "count": 2
+  }
+}

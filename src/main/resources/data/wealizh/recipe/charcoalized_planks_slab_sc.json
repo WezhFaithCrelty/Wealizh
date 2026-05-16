@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:charcoalized_planks",
+  "result": {
+    "id": "wealizh:charcoalized_planks_slab",
+    "count": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:component_housing_gold",
+    "wealizh:gear_assembly",
+    "wealizh:power_booster_unit",
+    "minecraft:quartz",
+    "wealizh:gold_thread",
+    "wealizh:copper_thread",
+    "minecraft:amethyst_shard",
+    "minecraft:tripwire_hook",
+    "minecraft:redstone",
+    "#minecraft:planks",
+    "wealizh:steel_nugget",
+    "minecraft:lever",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:clock_component",
+      "count": 1
+    }
+  ]
+}

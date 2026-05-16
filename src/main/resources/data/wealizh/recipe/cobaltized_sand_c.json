@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "wealizh:funbicobalt_powder",
+    "minecraft:sand",
+    "wealizh:funbicobalt_powder",
+    "minecraft:sand",
+    "wealizh:lapis_lazuli_powder",
+    "minecraft:sand",
+    "wealizh:funbicobalt_powder",
+    "minecraft:sand",
+    "wealizh:funbicobalt_powder"
+  ],
+  "result": {
+    "id": "wealizh:cobaltized_sand",
+    "count": 4
+  }
+}

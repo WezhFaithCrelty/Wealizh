@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "#wealizh:battery/battery",
+    "wealizh:steel_ingot",
+    "minecraft:hopper",
+    "wealizh:steel_ingot",
+    "minecraft:iron_trapdoor",
+    "wealizh:steel_frame",
+    "minecraft:redstone",
+    "wealizh:brass_ingot",
+    "minecraft:quartz",
+    "minecraft:redstone",
+    "wealizh:steel_frame",
+    "minecraft:iron_trapdoor",
+    "#wealizh:steel_block",
+    "wealizh:copper_cable",
+    "wealizh:gold_thread",
+    "#wealizh:steel_block",
+    "wealizh:electric_motor",
+    "wealizh:steel_shaft",
+    "wealizh:steel_shaft",
+    "wealizh:electric_motor"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:crusher",
+      "count": 1
+    }
+  ]
+}

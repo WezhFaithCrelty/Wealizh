@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:chain",
+    "b": "wealizh:iron_thread"
+  },
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}

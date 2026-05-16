@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:heat_transfer_plate",
+    "c": "wealizh:rebar",
+    "d": "minecraft:blast_furnace",
+    "e": "minecraft:brick",
+    "f": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "wealizh:combustion_chamber",
+    "count": 1
+  }
+}

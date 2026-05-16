@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:wire",
+    "c": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:concentrated_wire",
+    "count": 1
+  }
+}

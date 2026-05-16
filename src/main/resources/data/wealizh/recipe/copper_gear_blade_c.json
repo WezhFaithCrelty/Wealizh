@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:copper_nugget",
+    "b": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "wealizh:copper_gear_blade",
+    "count": 1
+  }
+}

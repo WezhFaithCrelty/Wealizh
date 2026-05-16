@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:copper_plate",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:copper_storage_barrel",
+    "count": 1
+  }
+}

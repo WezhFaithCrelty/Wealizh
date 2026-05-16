@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:cobaltized_glass",
+  "result": {
+    "id": "wealizh:cobaltized_glass_pane",
+    "count": 3
+  }
+}

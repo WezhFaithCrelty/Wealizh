@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:charred_stone"
+  },
+  "result": {
+    "id": "wealizh:charred_stone_stair",
+    "count": 4
+  }
+}

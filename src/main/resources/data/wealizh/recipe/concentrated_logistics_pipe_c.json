@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:logistics_pipe"
+  },
+  "result": {
+    "id": "wealizh:concentrated_logistics_pipe",
+    "count": 1
+  }
+}

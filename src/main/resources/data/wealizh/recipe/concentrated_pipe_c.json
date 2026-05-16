@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:iron_plate",
+    "b": "wealizh:pipe"
+  },
+  "result": {
+    "id": "wealizh:concentrated_pipe",
+    "count": 1
+  }
+}
