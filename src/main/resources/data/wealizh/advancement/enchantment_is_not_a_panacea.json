@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:enchanted_book"
+    },
+    "title": {
+      "translate": "advancements.enchantment_is_not_a_panacea.title"
+    },
+    "description": {
+      "translate": "advancements.enchantment_is_not_a_panacea.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "enchantment_is_not_a_panacea_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:battery_no_one"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:radioactivity"
+    },
+    "title": {
+      "translate": "advancements.radioactivity_can_be_fatal.title"
+    },
+    "description": {
+      "translate": "advancements.radioactivity_can_be_fatal.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "radioactivity_can_be_fatal_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:radioactivity_h"
+}

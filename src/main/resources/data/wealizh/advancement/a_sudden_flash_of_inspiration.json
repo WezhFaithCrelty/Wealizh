@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:incandescent_light_bulb"
+    },
+    "title": {
+      "translate": "advancements.a_sudden_flash_of_inspiration.title"
+    },
+    "description": {
+      "translate": "advancements.a_sudden_flash_of_inspiration.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_sudden_flash_of_inspiration_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:incandescent_light_bulb",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:how_steel_is_made"
+}

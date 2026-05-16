@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:button_battery"
+    },
+    "title": {
+      "translate": "advancements.battery_no_one.title"
+    },
+    "description": {
+      "translate": "advancements.battery_no_one.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battery_no_one_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:qualitative_change"
+}

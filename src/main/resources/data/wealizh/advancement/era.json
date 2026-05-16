@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "wealizh:screens/hui_kuai_",
+    "icon": {
+      "id": "wealizh:germination"
+    },
+    "title": {
+      "translate": "advancements.era.title"
+    },
+    "description": {
+      "translate": "advancements.era.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "era_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

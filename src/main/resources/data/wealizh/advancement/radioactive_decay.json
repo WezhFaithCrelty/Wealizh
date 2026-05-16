@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:decay"
+    },
+    "title": {
+      "translate": "advancements.radioactive_decay.title"
+    },
+    "description": {
+      "translate": "advancements.radioactive_decay.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "radioactive_decay_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_beginning_of_nuclear_energy"
+}

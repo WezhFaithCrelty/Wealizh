@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:quantitative_transformation_reconstructor"
+    },
+    "title": {
+      "translate": "advancements.well_it_is_still_that_same_flavo.title"
+    },
+    "description": {
+      "translate": "advancements.well_it_is_still_that_same_flavo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "well_it_is_still_that_same_flavo_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:fall_in_love_with_qualitative_change"
+}

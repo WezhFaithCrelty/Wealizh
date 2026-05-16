@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:compressor"
+    },
+    "title": {
+      "translate": "advancements.very_small_small_but_also_very_cute.title"
+    },
+    "description": {
+      "translate": "advancements.very_small_small_but_also_very_cute.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "very_small_small_but_also_very_cute_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:under_a_lot_of_pressure"
+}

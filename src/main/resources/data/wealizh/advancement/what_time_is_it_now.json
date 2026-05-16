@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:clock"
+    },
+    "title": {
+      "translate": "advancements.what_time_is_it_now.title"
+    },
+    "description": {
+      "translate": "advancements.what_time_is_it_now.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "what_time_is_it_now_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:clock",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:loop_by_loop_interlocking_together"
+}

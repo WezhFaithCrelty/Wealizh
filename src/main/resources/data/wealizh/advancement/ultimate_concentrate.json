@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:experience_block"
+    },
+    "title": {
+      "translate": "advancements.ultimate_concentrate.title"
+    },
+    "description": {
+      "translate": "advancements.ultimate_concentrate.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ultimate_concentrate_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:experience_block",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 666
+  },
+  "parent": "wealizh:storable_experience"
+}

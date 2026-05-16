@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:pressing_machine"
+    },
+    "title": {
+      "translate": "advancements.under_a_lot_of_pressure.title"
+    },
+    "description": {
+      "translate": "advancements.under_a_lot_of_pressure.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "under_a_lot_of_pressure_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:shining_debris"
+}

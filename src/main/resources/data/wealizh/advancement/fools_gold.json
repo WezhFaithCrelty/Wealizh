@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:pyrite_cube"
+    },
+    "title": {
+      "translate": "advancements.fools_gold.title"
+    },
+    "description": {
+      "translate": "advancements.fools_gold.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fools_gold_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:pyrite_cube",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:how_steel_is_made"
+}

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:uranium_235_ingot"
+    },
+    "title": {
+      "translate": "advancements.anditshappyworld.title"
+    },
+    "description": {
+      "translate": "advancements.anditshappyworld.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "anditshappyworld_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:uranium_235_ingot",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:code_111"
+}

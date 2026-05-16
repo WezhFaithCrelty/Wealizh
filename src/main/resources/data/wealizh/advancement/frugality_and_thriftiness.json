@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:sugar_cane_residue"
+    },
+    "title": {
+      "translate": "advancements.frugality_and_thriftiness.title"
+    },
+    "description": {
+      "translate": "advancements.frugality_and_thriftiness.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "frugality_and_thriftiness_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:good_teeth"
+}

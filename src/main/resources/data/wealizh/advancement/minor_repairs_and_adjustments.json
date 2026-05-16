@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:wrench"
+    },
+    "title": {
+      "translate": "advancements.minor_repairs_and_adjustments.title"
+    },
+    "description": {
+      "translate": "advancements.minor_repairs_and_adjustments.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "minor_repairs_and_adjustments_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:wrench",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:complete_combustion"
+}

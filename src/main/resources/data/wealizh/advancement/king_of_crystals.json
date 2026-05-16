@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:white_crystal_shard"
+    },
+    "title": {
+      "translate": "advancements.king_of_crystals.title"
+    },
+    "description": {
+      "translate": "advancements.king_of_crystals.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "king_of_crystals_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:white_crystal_shard",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:fools_gold"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:coal_dust_lcon"
+    },
+    "title": {
+      "translate": "advancements.chronic_lung_disease.title"
+    },
+    "description": {
+      "translate": "advancements.chronic_lung_disease.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chronic_lung_disease_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:black_carbon_structures"
+}

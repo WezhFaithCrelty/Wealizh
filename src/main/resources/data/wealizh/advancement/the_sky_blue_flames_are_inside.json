@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:fuel_tank_soul_fire_catalyst"
+    },
+    "title": {
+      "translate": "advancements.the_sky_blue_flames_are_inside.title"
+    },
+    "description": {
+      "translate": "advancements.the_sky_blue_flames_are_inside.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_sky_blue_flames_are_inside_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:complete_combustion"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:centrifuge"
+    },
+    "title": {
+      "translate": "advancements.before_the_order_came_into_being.title"
+    },
+    "description": {
+      "translate": "advancements.before_the_order_came_into_being.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "before_the_order_came_into_being_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:f_nuclear_bomb"
+}

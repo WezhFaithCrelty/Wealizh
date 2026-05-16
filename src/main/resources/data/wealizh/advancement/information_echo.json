@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:remote_starter"
+    },
+    "title": {
+      "translate": "advancements.information_echo.title"
+    },
+    "description": {
+      "translate": "advancements.information_echo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "information_echo_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_beginning_of_nuclear_energy"
+}

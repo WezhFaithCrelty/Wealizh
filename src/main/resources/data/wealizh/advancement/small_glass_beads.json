@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:empty_substance_nucleus"
+    },
+    "title": {
+      "translate": "advancements.small_glass_beads.title"
+    },
+    "description": {
+      "translate": "advancements.small_glass_beads.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "small_glass_beads_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:empty_substance_nucleus",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:the_initial_form_of_the_factory"
+}

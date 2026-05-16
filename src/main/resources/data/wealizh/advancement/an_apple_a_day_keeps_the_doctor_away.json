@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:an_apple_a_day_keeps_the_doctor_away_lcon"
+    },
+    "title": {
+      "translate": "advancements.an_apple_a_day_keeps_the_doctor_away.title"
+    },
+    "description": {
+      "translate": "advancements.an_apple_a_day_keeps_the_doctor_away.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "an_apple_a_day_keeps_the_doctor_away_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 789
+  },
+  "parent": "minecraft:husbandry/balanced_diet"
+}

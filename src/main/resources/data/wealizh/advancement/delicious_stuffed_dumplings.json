@@ -1,0 +1,65 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:qualitative_change_substance_nucleus"
+    },
+    "title": {
+      "translate": "advancements.delicious_stuffed_dumplings.title"
+    },
+    "description": {
+      "translate": "advancements.delicious_stuffed_dumplings.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "delicious_stuffed_dumplings_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:qualitative_change_substance_nucleus",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "delicious_stuffed_dumplings_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:overpressure_qualitative_change_substance_nucleus",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "delicious_stuffed_dumplings_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:quantitative_transformation_substance_nucleus",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 624
+  },
+  "parent": "wealizh:small_glass_beads"
+}

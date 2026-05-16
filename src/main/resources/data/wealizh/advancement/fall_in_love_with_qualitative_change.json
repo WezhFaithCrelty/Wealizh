@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:rapid_qualitative_change_machine"
+    },
+    "title": {
+      "translate": "advancements.fall_in_love_with_qualitative_change.title"
+    },
+    "description": {
+      "translate": "advancements.fall_in_love_with_qualitative_change.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fall_in_love_with_qualitative_change_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:small_glass_beads"
+}

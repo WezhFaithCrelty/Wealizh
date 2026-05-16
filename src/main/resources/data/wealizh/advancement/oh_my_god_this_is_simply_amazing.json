@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:meow_titanium_ingot"
+    },
+    "title": {
+      "translate": "advancements.oh_my_god_this_is_simply_amazing.title"
+    },
+    "description": {
+      "translate": "advancements.oh_my_god_this_is_simply_amazing.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oh_my_god_this_is_simply_amazing_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:meow_titanium_ingot",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:anditshappyworld"
+}

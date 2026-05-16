@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:crusher"
+    },
+    "title": {
+      "translate": "advancements.shining_debris.title"
+    },
+    "description": {
+      "translate": "advancements.shining_debris.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "shining_debris_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:meat_grinder"
+}

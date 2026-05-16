@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:placer"
+    },
+    "title": {
+      "translate": "advancements.automatic_placement.title"
+    },
+    "description": {
+      "translate": "advancements.automatic_placement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "automatic_placement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:under_a_lot_of_pressure"
+}

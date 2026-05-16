@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:quickly_shut_off_the_engine_but_it_is_the_soul_version_lcon"
+    },
+    "title": {
+      "translate": "advancements.quickly_shut_off_the_engine_but_it_is_the_soul_version.title"
+    },
+    "description": {
+      "translate": "advancements.quickly_shut_off_the_engine_but_it_is_the_soul_version.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "quickly_shut_off_the_engine_but_it_is_the_soul_version_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_sky_blue_flames_are_inside"
+}

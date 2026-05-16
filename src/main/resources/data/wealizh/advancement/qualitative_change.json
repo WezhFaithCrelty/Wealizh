@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:qualitative_change"
+    },
+    "title": {
+      "translate": "advancements.qualitative_change.title"
+    },
+    "description": {
+      "translate": "advancements.qualitative_change.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "qualitative_change_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:frequent_moss_growth"
+}

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:trinitite"
+    },
+    "title": {
+      "translate": "advancements.trinity_site_stone.title"
+    },
+    "description": {
+      "translate": "advancements.trinity_site_stone.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trinity_site_stone_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:trinitite",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:i_was_alone_in_that_desolate_world_battered_by_dust_and_despair"
+}

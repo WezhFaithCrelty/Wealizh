@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:hand_cranked_generator"
+    },
+    "title": {
+      "translate": "advancements.mechanical_power.title"
+    },
+    "description": {
+      "translate": "advancements.mechanical_power.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mechanical_power_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:battery_no_one"
+}

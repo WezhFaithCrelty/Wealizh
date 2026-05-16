@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:kiln"
+    },
+    "title": {
+      "translate": "advancements.ancient_casting_method.title"
+    },
+    "description": {
+      "translate": "advancements.ancient_casting_method.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ancient_casting_method_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_new_story"
+}

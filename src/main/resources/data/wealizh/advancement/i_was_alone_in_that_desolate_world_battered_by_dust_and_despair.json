@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:radioactive_fallout"
+    },
+    "title": {
+      "translate": "advancements.i_was_alone_in_that_desolate_world_battered_by_dust_and_despair.title"
+    },
+    "description": {
+      "translate": "advancements.i_was_alone_in_that_desolate_world_battered_by_dust_and_despair.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "i_was_alone_in_that_desolate_world_battered_by_dust_and_despair_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "wealizh:desolate_land"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:nuclear_fission"
+}

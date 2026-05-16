@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:assembly_type_control_console"
+    },
+    "title": {
+      "translate": "advancements.the_initial_form_of_the_factory.title"
+    },
+    "description": {
+      "translate": "advancements.the_initial_form_of_the_factory.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_initial_form_of_the_factory_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:assembly_assembly_machine"
+}

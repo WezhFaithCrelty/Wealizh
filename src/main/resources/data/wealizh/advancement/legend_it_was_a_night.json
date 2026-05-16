@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:anemenrounze"
+    },
+    "title": {
+      "translate": "advancements.legend_it_was_a_night.title"
+    },
+    "description": {
+      "translate": "advancements.legend_it_was_a_night.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "legend_it_was_a_night_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:anemenrounze",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 666
+  },
+  "parent": "wealizh:the_cage_of_fate"
+}

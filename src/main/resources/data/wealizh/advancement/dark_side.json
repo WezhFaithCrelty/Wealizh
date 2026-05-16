@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:metal_cobalt_ingot"
+    },
+    "title": {
+      "translate": "advancements.dark_side.title"
+    },
+    "description": {
+      "translate": "advancements.dark_side.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dark_side_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "wealizh:metal_cobalt_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "wealizh:the_initial_form_of_the_factory"
+}

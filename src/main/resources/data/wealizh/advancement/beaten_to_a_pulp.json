@@ -1,0 +1,93 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:netherite_gear_blade"
+    },
+    "title": {
+      "translate": "advancements.beaten_to_a_pulp.title"
+    },
+    "description": {
+      "translate": "advancements.beaten_to_a_pulp.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "beaten_to_a_pulp_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:iron_gear_blade",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "beaten_to_a_pulp_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:copper_gear_blade",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "beaten_to_a_pulp_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:silver_gear_blade",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "beaten_to_a_pulp_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:steel_gear_blade",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    },
+    "beaten_to_a_pulp_4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wealizh:netherite_gear_blade",
+            "count": {
+              "min": 1,
+              "max": 100000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 758
+  },
+  "parent": "wealizh:meat_grinder"
+}

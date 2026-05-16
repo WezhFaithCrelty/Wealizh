@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:turn_the_crank_until_you_get_tired_then_just_keep_on_enduring_it_icon"
+    },
+    "title": {
+      "translate": "advancements.turn_the_crank_until_you_get_tired_then_just_keep_on_enduring_it.title"
+    },
+    "description": {
+      "translate": "advancements.turn_the_crank_until_you_get_tired_then_just_keep_on_enduring_it.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "turn_the_crank_until_you_get_tired_then_just_keep_on_enduring_it_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:mechanical_power"
+}

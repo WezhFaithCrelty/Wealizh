@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:flint_block"
+    },
+    "title": {
+      "translate": "advancements.the_fire_from_the_flint_is_shining.title"
+    },
+    "description": {
+      "translate": "advancements.the_fire_from_the_flint_is_shining.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_fire_from_the_flint_is_shining_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_new_story"
+}

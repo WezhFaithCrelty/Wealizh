@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:peeling_sugar_cane"
+    },
+    "title": {
+      "translate": "advancements.good_teeth.title"
+    },
+    "description": {
+      "translate": "advancements.good_teeth.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "good_teeth_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_new_story"
+}

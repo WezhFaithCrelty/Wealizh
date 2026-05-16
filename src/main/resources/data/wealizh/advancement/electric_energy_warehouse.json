@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:storage_battery"
+    },
+    "title": {
+      "translate": "advancements.electric_energy_warehouse.title"
+    },
+    "description": {
+      "translate": "advancements.electric_energy_warehouse.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "electric_energy_warehouse_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:mechanical_power"
+}

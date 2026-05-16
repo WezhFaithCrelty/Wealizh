@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:iron_gear_blade"
+    },
+    "title": {
+      "translate": "advancements.meat_grinder.title"
+    },
+    "description": {
+      "translate": "advancements.meat_grinder.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "meat_grinder_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_initial_form_of_the_factory"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bone_meal"
+    },
+    "title": {
+      "translate": "advancements.oh_no_how_come_i_can_not_get_out.title"
+    },
+    "description": {
+      "translate": "advancements.oh_no_how_come_i_can_not_get_out.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "oh_no_how_come_i_can_not_get_out_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:automatic_placement"
+}

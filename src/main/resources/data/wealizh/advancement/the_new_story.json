@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "wealizh:screens/hui_kuai_",
+    "icon": {
+      "id": "wealizh:wealizh_lcon"
+    },
+    "title": {
+      "translate": "advancements.the_new_story.title"
+    },
+    "description": {
+      "translate": "advancements.the_new_story.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "the_new_story_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

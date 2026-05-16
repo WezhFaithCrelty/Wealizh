@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:detonator_block"
+    },
+    "title": {
+      "translate": "advancements.place_activate_detonate.title"
+    },
+    "description": {
+      "translate": "advancements.place_activate_detonate.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "place_activate_detonate_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:ancient_casting_method"
+}

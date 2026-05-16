@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:toxic"
+    },
+    "title": {
+      "translate": "advancements.toxic_reaction.title"
+    },
+    "description": {
+      "translate": "advancements.toxic_reaction.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "toxic_reaction_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:qualitative_change"
+}

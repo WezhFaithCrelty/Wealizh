@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:battery"
+    },
+    "title": {
+      "translate": "advancements.low_electricity.title"
+    },
+    "description": {
+      "translate": "advancements.low_electricity.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "low_electricity_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:the_iron_age"
+}

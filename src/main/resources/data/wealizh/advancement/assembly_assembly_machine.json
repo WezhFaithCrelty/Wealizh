@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:assembly_room"
+    },
+    "title": {
+      "translate": "advancements.assembly_assembly_machine.title"
+    },
+    "description": {
+      "translate": "advancements.assembly_assembly_machine.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "assembly_assembly_machine_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:finishing_process"
+}

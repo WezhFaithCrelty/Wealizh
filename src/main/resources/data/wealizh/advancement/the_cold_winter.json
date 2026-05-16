@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wealizh:the_cold_winter_icon"
+    },
+    "title": {
+      "translate": "advancements.the_cold_winter.title"
+    },
+    "description": {
+      "translate": "advancements.the_cold_winter.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_cold_winter_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wealizh:i_was_alone_in_that_desolate_world_battered_by_dust_and_despair"
+}
