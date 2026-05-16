@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "wealizh:blocks/molten_high_temperature_solidified_substance",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wealizh:molten_high_temperature_solidified_substance"
+        }
+      ]
+    }
+  ]
+}

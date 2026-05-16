@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "wealizh:blocks/old_studio_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wealizh:old_studio_door",
+          "conditions": [
+            {
+              "block": "wealizh:old_studio_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
