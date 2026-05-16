@@ -1,0 +1,11 @@
+package net.mcreator.wealizh.procedures;
+
+import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.world.level.Level;
+import net.minecraft.core.BlockPos;
+
+public class IsRedstoneInsBoolReturnProcedure {
+	public static boolean execute(LevelAccessor world, double x, double y, double z) {
+		return world instanceof Level _level0 && _level0.hasNeighborSignal(BlockPos.containing(x, y, z));
+	}
+}
