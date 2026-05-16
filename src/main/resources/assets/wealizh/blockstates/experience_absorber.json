@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/experience_absorber"
+    },
+    "facing=east": {
+      "model": "wealizh:block/experience_absorber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/experience_absorber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/experience_absorber",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "wealizh:block/experience_absorber",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "wealizh:block/experience_absorber",
+      "x": 90
+    }
+  }
+}

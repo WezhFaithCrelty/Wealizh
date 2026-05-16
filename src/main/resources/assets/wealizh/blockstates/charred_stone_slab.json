@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wealizh:block/charred_stone_slab"
+    },
+    "type=top": {
+      "model": "wealizh:block/charred_stone_slab_top"
+    },
+    "type=double": {
+      "model": "wealizh:block/charred_stone_slab_full"
+    }
+  }
+}

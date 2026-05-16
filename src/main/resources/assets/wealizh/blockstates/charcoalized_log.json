@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wealizh:block/charcoalized_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wealizh:block/charcoalized_log"
+    },
+    "axis=z": {
+      "model": "wealizh:block/charcoalized_log",
+      "x": 90
+    }
+  }
+}

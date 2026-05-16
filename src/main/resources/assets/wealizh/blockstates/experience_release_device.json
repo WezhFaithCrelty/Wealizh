@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/experience_release_device"
+    },
+    "facing=east": {
+      "model": "wealizh:block/experience_release_device",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/experience_release_device",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/experience_release_device",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "wealizh:block/experience_release_device",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "wealizh:block/experience_release_device",
+      "x": 90
+    }
+  }
+}

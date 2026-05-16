@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/assembly_type_control_console"
+    },
+    "facing=east": {
+      "model": "wealizh:block/assembly_type_control_console",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/assembly_type_control_console",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/assembly_type_control_console",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "wealizh:block/assembly_type_control_console",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "wealizh:block/assembly_type_control_console",
+      "x": 90
+    }
+  }
+}

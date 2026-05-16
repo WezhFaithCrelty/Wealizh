@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,function=true,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber_0"
+    },
+    "facing=north,function=true,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber_1"
+    },
+    "facing=north,function=false,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber"
+    },
+    "facing=north,function=false,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber"
+    },
+    "facing=east,function=true,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber_0",
+      "y": 90
+    },
+    "facing=east,function=true,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber_1",
+      "y": 90
+    },
+    "facing=east,function=false,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 90
+    },
+    "facing=east,function=false,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 90
+    },
+    "facing=south,function=true,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber_0",
+      "y": 180
+    },
+    "facing=south,function=true,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber_1",
+      "y": 180
+    },
+    "facing=south,function=false,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 180
+    },
+    "facing=south,function=false,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 180
+    },
+    "facing=west,function=true,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber_0",
+      "y": 270
+    },
+    "facing=west,function=true,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber_1",
+      "y": 270
+    },
+    "facing=west,function=false,function_soul=true": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 270
+    },
+    "facing=west,function=false,function_soul=false": {
+      "model": "wealizh:block/combustion_chamber",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "function=true": {
+      "model": "wealizh:block/electric_heater_0"
+    },
+    "function=false": {
+      "model": "wealizh:block/electric_heater"
+    }
+  }
+}

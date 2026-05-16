@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "brightness=1": {
+      "model": "wealizh:block/electric_lamp_0"
+    },
+    "brightness=2": {
+      "model": "wealizh:block/electric_lamp_1"
+    },
+    "brightness=3": {
+      "model": "wealizh:block/electric_lamp_2"
+    },
+    "brightness=4": {
+      "model": "wealizh:block/electric_lamp_3"
+    },
+    "brightness=5": {
+      "model": "wealizh:block/electric_lamp_4"
+    },
+    "brightness=6": {
+      "model": "wealizh:block/electric_lamp_5"
+    },
+    "brightness=7": {
+      "model": "wealizh:block/electric_lamp_6"
+    },
+    "brightness=8": {
+      "model": "wealizh:block/electric_lamp_7"
+    },
+    "brightness=9": {
+      "model": "wealizh:block/electric_lamp_8"
+    },
+    "brightness=10": {
+      "model": "wealizh:block/electric_lamp_9"
+    },
+    "brightness=11": {
+      "model": "wealizh:block/electric_lamp_10"
+    },
+    "brightness=12": {
+      "model": "wealizh:block/electric_lamp_11"
+    },
+    "brightness=13": {
+      "model": "wealizh:block/electric_lamp_12"
+    },
+    "brightness=14": {
+      "model": "wealizh:block/electric_lamp_13"
+    },
+    "brightness=15": {
+      "model": "wealizh:block/electric_lamp_14"
+    },
+    "brightness=0": {
+      "model": "wealizh:block/electric_lamp"
+    }
+  }
+}

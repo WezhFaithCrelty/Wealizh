@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wealizh:block/charcoalized_planks_slab"
+    },
+    "type=top": {
+      "model": "wealizh:block/charcoalized_planks_slab_top"
+    },
+    "type=double": {
+      "model": "wealizh:block/charcoalized_planks_slab_full"
+    }
+  }
+}

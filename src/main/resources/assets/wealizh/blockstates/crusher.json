@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/crusher"
+    },
+    "facing=east": {
+      "model": "wealizh:block/crusher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/crusher",
+      "y": 270
+    }
+  }
+}

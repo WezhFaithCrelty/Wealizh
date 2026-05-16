@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/air_separator"
+    },
+    "facing=east": {
+      "model": "wealizh:block/air_separator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/air_separator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/air_separator",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "desert_dust=true": {
+      "model": "wealizh:block/died_grass_block_0"
+    },
+    "desert_dust=false": {
+      "model": "wealizh:block/died_grass_block"
+    }
+  }
+}
