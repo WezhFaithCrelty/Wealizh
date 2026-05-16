@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cb"
+  ],
+  "key": {
+    "a": "minecraft:leather",
+    "b": "wealizh:grass_fibers",
+    "c": "minecraft:stick"
+  },
+  "result": {
+    "id": "wealizh:rope",
+    "count": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:stecked_stone_alloy_block"
+  },
+  "result": {
+    "id": "wealizh:stecked_stone_alloy",
+    "count": 9
+  }
+}

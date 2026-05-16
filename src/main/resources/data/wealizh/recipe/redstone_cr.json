@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:redstone_crystal",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:redstone",
+      "count": 2
+    }
+  ]
+}

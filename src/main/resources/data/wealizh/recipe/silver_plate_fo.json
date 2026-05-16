@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "wealizh:silver_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:silver_plate",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:redstone_crystal_block"
+  },
+  "result": {
+    "id": "wealizh:redstone_crystal",
+    "count": 9
+  }
+}

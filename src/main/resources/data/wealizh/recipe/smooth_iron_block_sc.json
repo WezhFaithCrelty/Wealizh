@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:iron_block",
+  "result": {
+    "id": "wealizh:smooth_iron_block",
+    "count": 1
+  }
+}

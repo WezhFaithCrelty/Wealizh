@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": "wealizh:silver_nugget",
+    "b": "minecraft:iron_nugget",
+    "c": "wealizh:iron_plate",
+    "d": "wealizh:silver_plate",
+    "e": "wealizh:stecked_stone_alloy_plate"
+  },
+  "result": {
+    "id": "wealizh:slowlnsresponse_perforated_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "a b"
+  ],
+  "key": {
+    "a": "minecraft:smooth_stone",
+    "b": "minecraft:deepslate_bricks"
+  },
+  "result": {
+    "id": "wealizh:rocker",
+    "count": 1
+  }
+}

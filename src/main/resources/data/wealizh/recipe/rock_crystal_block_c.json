@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:rock_crystal"
+  },
+  "result": {
+    "id": "wealizh:rock_crystal_block",
+    "count": 1
+  }
+}

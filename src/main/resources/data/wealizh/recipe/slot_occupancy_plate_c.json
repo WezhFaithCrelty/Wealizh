@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "wealizh:graphite",
+    "b": "wealizh:steel_plate",
+    "c": "wealizh:silver_nugget"
+  },
+  "result": {
+    "id": "wealizh:slot_occupancy_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "wealizh:wiring_lead",
+    "b": "minecraft:redstone"
+  },
+  "result": {
+    "id": "wealizh:redstone_wiring_lead",
+    "count": 1
+  }
+}

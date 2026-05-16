@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:steel_nugget"
+  },
+  "result": {
+    "id": "wealizh:small_gear",
+    "count": 2
+  }
+}

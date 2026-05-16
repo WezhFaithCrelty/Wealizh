@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": "minecraft:andesite",
+    "b": "minecraft:granite",
+    "c": "minecraft:diorite",
+    "d": "wealizh:silver_nugget"
+  },
+  "result": {
+    "id": "wealizh:stecked_stone_alloy",
+    "count": 2
+  }
+}

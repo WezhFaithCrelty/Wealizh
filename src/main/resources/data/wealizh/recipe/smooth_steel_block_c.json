@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "wealizh:steel_nugget",
+    "wealizh:steel_block"
+  ],
+  "result": {
+    "id": "wealizh:smooth_steel_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.1,
+  "cookingtime": 200,
+  "ingredient": "wealizh:silver_powder",
+  "result": {
+    "id": "wealizh:silver_ingot"
+  }
+}

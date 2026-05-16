@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1.2,
+  "cookingtime": 600,
+  "ingredient": "wealizh:raw_redstone_crystal",
+  "result": {
+    "id": "wealizh:redstone_crystal"
+  }
+}

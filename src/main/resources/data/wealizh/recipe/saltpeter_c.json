@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:saltpeter_block"
+  },
+  "result": {
+    "id": "wealizh:saltpeter",
+    "count": 9
+  }
+}

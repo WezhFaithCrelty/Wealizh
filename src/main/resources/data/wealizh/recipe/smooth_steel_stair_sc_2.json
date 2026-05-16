@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:steel_stair",
+  "result": {
+    "id": "wealizh:smooth_steel_stair",
+    "count": 1
+  }
+}

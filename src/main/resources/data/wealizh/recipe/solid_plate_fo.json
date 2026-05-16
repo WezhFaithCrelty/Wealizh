@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "wealizh:graphitelead_plate",
+    "wealizh:steel_plate",
+    "minecraft:obsidian"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:solid_plate",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:silver_block"
+  },
+  "result": {
+    "id": "wealizh:silver_ingot",
+    "count": 9
+  }
+}

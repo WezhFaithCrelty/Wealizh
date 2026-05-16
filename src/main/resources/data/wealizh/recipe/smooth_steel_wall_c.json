@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:smooth_steel_block"
+  },
+  "result": {
+    "id": "wealizh:smooth_steel_wall",
+    "count": 1
+  }
+}

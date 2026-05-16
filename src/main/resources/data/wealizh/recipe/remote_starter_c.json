@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghg"
+  ],
+  "key": {
+    "a": "minecraft:echo_shard",
+    "b": "minecraft:quartz",
+    "c": "minecraft:heavy_weighted_pressure_plate",
+    "d": "wealizh:low_level_chips",
+    "e": "wealizh:buzzer",
+    "f": "wealizh:silver_thread",
+    "g": "wealizh:steel_plate",
+    "h": "wealizh:iron_plate"
+  },
+  "result": {
+    "id": "wealizh:remote_starter",
+    "count": 1
+  }
+}
