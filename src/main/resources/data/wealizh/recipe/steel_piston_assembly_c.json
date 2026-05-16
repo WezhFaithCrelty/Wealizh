@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    "cdc",
+    "b b"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:steel_nugget",
+    "c": "wealizh:steel_shaft",
+    "d": "wealizh:steel_thread"
+  },
+  "result": {
+    "id": "wealizh:steel_piston_group",
+    "count": 1
+  }
+}

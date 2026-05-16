@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot"
+  },
+  "result": {
+    "id": "wealizh:rebar",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:interaction_jei",
+  "ingredients": [
+    "wealizh:peeling_sugar_cane",
+    "wealizh:eating",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:sugar_cane_residue",
+      "count": 1
+    }
+  ]
+}

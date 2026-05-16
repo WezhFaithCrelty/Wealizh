@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": "wealizh:red_copper_coil",
+    "b": "wealizh:wire",
+    "c": "wealizh:aluminum_ingot"
+  },
+  "result": {
+    "id": "wealizh:unidirectional_wire_valve",
+    "count": 1
+  }
+}

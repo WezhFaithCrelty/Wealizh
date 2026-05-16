@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc",
+    "ded"
+  ],
+  "key": {
+    "a": "wealizh:red_copper_thread",
+    "b": "#wealizh:ore_coal_powder",
+    "c": "wealizh:rock_crystal",
+    "d": "wealizh:decayed_funbicobalt",
+    "e": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "wealizh:thermal_energy_power_generation_panel",
+    "count": 1
+  }
+}

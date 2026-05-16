@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:uranium_235_powder",
+    "wealizh:uranium_235_nugget",
+    "wealizh:uranium_235_nugget",
+    "wealizh:uranium_235_nugget",
+    "wealizh:uranium_235_nugget",
+    "wealizh:uranium_235_nugget",
+    "wealizh:uranium_235_nugget",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:uranium_235_billetsmaterial",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 16.5,
+  "cookingtime": 5000,
+  "ingredient": "wealizh:raw_steel_block",
+  "result": {
+    "id": "wealizh:steel_block"
+  }
+}

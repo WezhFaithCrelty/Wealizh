@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:uranium_235_ingot"
+  },
+  "result": {
+    "id": "wealizh:uranium_235_nugget",
+    "count": 9
+  }
+}

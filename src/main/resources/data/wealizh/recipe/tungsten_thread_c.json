@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:tungsten_ingot",
+    "b": "wealizh:tungsten_nugget"
+  },
+  "result": {
+    "id": "wealizh:tungsten_thread",
+    "count": 2
+  }
+}

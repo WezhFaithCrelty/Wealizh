@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": "wealizh:glass_shards",
+    "b": "minecraft:quartz",
+    "c": "minecraft:andesite",
+    "d": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "minecraft:tuff",
+    "count": 2
+  }
+}

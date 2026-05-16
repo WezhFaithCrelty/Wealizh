@@ -1,0 +1,18 @@
+{
+  "type": "wealizh:interaction_jei",
+  "ingredients": [
+    "wealizh:casing_thermal_energy_power_generation_panel",
+    "wealizh:wrench",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:thermal_energy_power_generation_panel",
+      "count": 1
+    },
+    {
+      "id": "wealizh:iron_plate",
+      "count": 1
+    }
+  ]
+}

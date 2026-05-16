@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 2.4,
+  "cookingtime": 600,
+  "ingredient": "wealizh:raw_steel",
+  "result": {
+    "id": "wealizh:steel_ingot"
+  }
+}

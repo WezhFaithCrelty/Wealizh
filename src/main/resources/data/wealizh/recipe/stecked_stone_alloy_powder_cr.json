@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:stecked_stone_alloy",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:stecked_stone_alloy_powder",
+      "count": 1
+    }
+  ]
+}

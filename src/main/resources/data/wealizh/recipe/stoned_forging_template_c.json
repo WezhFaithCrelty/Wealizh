@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "wealizh:stone_powder",
+    "b": "minecraft:deepslate",
+    "c": "minecraft:stone_slab"
+  },
+  "result": {
+    "id": "wealizh:petrified_forging_template",
+    "count": 2
+  }
+}

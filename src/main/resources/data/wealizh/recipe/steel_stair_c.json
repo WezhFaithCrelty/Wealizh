@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ba"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:steel_block"
+  },
+  "result": {
+    "id": "wealizh:steel_stair",
+    "count": 1
+  }
+}

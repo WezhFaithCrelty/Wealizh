@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:titanium_plate",
+    "b": "wealizh:titanium_nugget",
+    "c": "wealizh:iron_storage_barrel"
+  },
+  "result": {
+    "id": "wealizh:titanium_storage_barrel",
+    "count": 1
+  }
+}

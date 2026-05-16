@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_ingot",
+    "b": "wealizh:steel_nugget"
+  },
+  "result": {
+    "id": "wealizh:steel_scaffolding",
+    "count": 1
+  }
+}

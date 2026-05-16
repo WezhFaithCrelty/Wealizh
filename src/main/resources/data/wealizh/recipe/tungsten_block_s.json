@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 9,
+  "cookingtime": 5200,
+  "ingredient": "wealizh:raw_tungsten_block",
+  "result": {
+    "id": "wealizh:tungsten_block"
+  }
+}

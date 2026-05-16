@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.6,
+  "cookingtime": 200,
+  "ingredient": "wealizh:molten_sand_solidification_substance",
+  "result": {
+    "id": "wealizh:trinitite"
+  }
+}

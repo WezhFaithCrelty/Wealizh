@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": "minecraft:iron_trapdoor",
+    "b": "wealizh:pipe",
+    "c": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:unidirectional_pipe_valve",
+    "count": 1
+  }
+}

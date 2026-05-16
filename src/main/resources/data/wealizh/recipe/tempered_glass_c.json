@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:diamond_powder",
+    "b": "wealizh:steel_powder",
+    "c": "#c:glass_blocks/cheap"
+  },
+  "result": {
+    "id": "wealizh:tempered_glass",
+    "count": 2
+  }
+}

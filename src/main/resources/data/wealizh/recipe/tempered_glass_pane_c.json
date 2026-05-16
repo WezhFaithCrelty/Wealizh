@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:tempered_glass"
+  },
+  "result": {
+    "id": "wealizh:tempered_glass_pane",
+    "count": 16
+  }
+}

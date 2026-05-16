@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:steel_powder",
+    "wealizh:steel_nugget",
+    "wealizh:steel_nugget",
+    "wealizh:steel_nugget",
+    "wealizh:steel_nugget",
+    "wealizh:steel_nugget",
+    "wealizh:steel_nugget",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:steel_billetsmaterial",
+      "count": 1
+    }
+  ]
+}

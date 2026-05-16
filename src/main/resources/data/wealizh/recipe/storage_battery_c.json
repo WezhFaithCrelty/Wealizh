@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "wealizh:steel_ingot",
+    "c": "wealizh:aluminum_storage_battery",
+    "d": "wealizh:copper_coil"
+  },
+  "result": {
+    "id": "wealizh:storage_battery",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:trinitite",
+  "result": {
+    "id": "wealizh:trinitite_pane",
+    "count": 3
+  }
+}
