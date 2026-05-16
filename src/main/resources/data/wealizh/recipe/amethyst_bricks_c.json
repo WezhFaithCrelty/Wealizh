@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "b": "minecraft:amethyst_block"
+  },
+  "result": {
+    "id": "wealizh:amethyst_bricks",
+    "count": 2
+  }
+}

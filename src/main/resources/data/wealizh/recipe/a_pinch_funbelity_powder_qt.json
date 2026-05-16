@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:quantitative_transformation_jei",
+  "ingredients": [
+    "wealizh:a_pinch_funbelity_cytosplasm",
+    "wealizh:quantitative_transformation_substance_nucleus"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:a_pinch_funbelity_powder",
+      "count": 1
+    }
+  ]
+}

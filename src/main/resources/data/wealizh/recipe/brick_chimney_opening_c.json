@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:brick",
+    "b": "wealizh:brick_chimney"
+  },
+  "result": {
+    "id": "wealizh:brick_chimney_opening",
+    "count": 2
+  }
+}

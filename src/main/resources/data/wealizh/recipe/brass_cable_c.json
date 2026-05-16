@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "bbb",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:insulation_board",
+    "b": "wealizh:brass_thread"
+  },
+  "result": {
+    "id": "wealizh:brass_cable",
+    "count": 1
+  }
+}

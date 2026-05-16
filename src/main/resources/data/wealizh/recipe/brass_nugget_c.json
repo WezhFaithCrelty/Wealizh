@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:brass_ingot"
+  },
+  "result": {
+    "id": "wealizh:brass_nugget",
+    "count": 9
+  }
+}

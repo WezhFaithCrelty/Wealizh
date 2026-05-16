@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:brass_ingot",
+    "wealizh:aluminum_ingot",
+    "wealizh:silver_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "wealizh:soul_burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:aluminum_copper_alloy_ingot",
+      "count": 2
+    }
+  ]
+}

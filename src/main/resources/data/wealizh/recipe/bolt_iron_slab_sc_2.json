@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:iron_slab",
+  "result": {
+    "id": "wealizh:bolt_iron_slab",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:copper_ingot",
+    "c": "wealizh:aluminum_ingot",
+    "d": "#wealizh:battery/buttom_battery",
+    "e": "wealizh:graphite"
+  },
+  "result": {
+    "id": "wealizh:aluminum_storage_battery",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cda",
+    "efe"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "wealizh:voltage_regulator",
+    "c": "wealizh:steel_ingot",
+    "d": "minecraft:note_block",
+    "e": "wealizh:copper_thread",
+    "f": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "wealizh:buzzer",
+    "count": 1
+  }
+}

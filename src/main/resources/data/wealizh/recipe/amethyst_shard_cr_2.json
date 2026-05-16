@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:medium_amethyst_bud",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ]
+}

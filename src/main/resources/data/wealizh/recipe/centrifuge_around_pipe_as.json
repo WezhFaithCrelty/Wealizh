@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:red_copper_coil",
+    "wealizh:iron_plate",
+    "wealizh:gold_cable",
+    "wealizh:iron_plate",
+    "wealizh:electric_motor",
+    "wealizh:steel_pipe",
+    "wealizh:steel_pipe",
+    "wealizh:steel_pipe",
+    "wealizh:steel_pipe",
+    "wealizh:steel_pipe",
+    "wealizh:steel_pipe",
+    "wealizh:electric_motor",
+    "wealizh:electric_motor",
+    "wealizh:silver_thread",
+    "wealizh:silver_thread",
+    "wealizh:electric_motor",
+    "wealizh:barrelrevolving_wheel",
+    "wealizh:barrelrevolving_wheel",
+    "wealizh:barrelrevolving_wheel",
+    "wealizh:barrelrevolving_wheel"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:centrifuge_around_pipe",
+      "count": 1
+    }
+  ]
+}

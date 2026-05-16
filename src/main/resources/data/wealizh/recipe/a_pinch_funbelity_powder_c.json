@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:funbelity_powder"
+  },
+  "result": {
+    "id": "wealizh:a_pinch_funbelity_powder",
+    "count": 9
+  }
+}

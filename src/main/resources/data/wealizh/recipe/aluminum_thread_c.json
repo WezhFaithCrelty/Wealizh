@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:aluminum_ingot",
+    "b": "wealizh:aluminum_nugget"
+  },
+  "result": {
+    "id": "wealizh:aluminum_thread",
+    "count": 2
+  }
+}

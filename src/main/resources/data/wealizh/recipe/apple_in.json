@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:interaction_jei",
+  "ingredients": [
+    "wealizh:an_apple_a_day_keeps_the_doctor_away_lcon",
+    "wealizh:eating",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:apple",
+      "count": 1
+    }
+  ]
+}

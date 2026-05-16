@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "minecraft:bamboo_block"
+  },
+  "result": {
+    "id": "minecraft:bamboo",
+    "count": 9
+  }
+}

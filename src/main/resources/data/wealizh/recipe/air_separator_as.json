@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "minecraft:iron_trapdoor",
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "wealizh:steel_plate",
+    "wealizh:steel_plate",
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "wealizh:iron_plate",
+    "#wealizh:battery/battery",
+    "wealizh:copper_coil",
+    "wealizh:blade",
+    "wealizh:fluid_tank_empty",
+    "wealizh:funbicobalt_powder",
+    "#c:glass_panes",
+    "wealizh:electric_motor",
+    "wealizh:gear_assembly"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:air_separator",
+      "count": 1
+    }
+  ]
+}

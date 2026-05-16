@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "wealizh:thermal_energy_power_generation_panel",
+    "b": "wealizh:iron_plate"
+  },
+  "result": {
+    "id": "wealizh:casing_thermal_energy_power_generation_panel",
+    "count": 1
+  }
+}

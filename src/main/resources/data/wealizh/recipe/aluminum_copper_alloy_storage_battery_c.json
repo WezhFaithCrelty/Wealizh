@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": "wealizh:zinc_plate",
+    "b": "wealizh:insulation_board",
+    "c": "wealizh:aluminum_copper_alloy_plate",
+    "d": "wealizh:storage_battery",
+    "e": "wealizh:compressed_aluminum_copper_alloy"
+  },
+  "result": {
+    "id": "wealizh:aluminum_copper_alloy_storage_battery",
+    "count": 1
+  }
+}

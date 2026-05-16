@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:aluminum_copper_alloy_ingot",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:aluminum_copper_alloy_powder",
+      "count": 1
+    }
+  ]
+}

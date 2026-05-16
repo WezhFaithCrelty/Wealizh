@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:rapid_qualitative_change_machine_jei",
+  "ingredients": [
+    "wealizh:a_pinch_funbelity_powder",
+    "#wealizh:qualitative_change_substance_nucleus"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:a_pinch_funbelity_cytosplasm",
+      "count": 1
+    }
+  ]
+}

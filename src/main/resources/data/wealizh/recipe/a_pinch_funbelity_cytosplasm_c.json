@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:funbelity_cytosplasm"
+  },
+  "result": {
+    "id": "wealizh:a_pinch_funbelity_cytosplasm",
+    "count": 9
+  }
+}

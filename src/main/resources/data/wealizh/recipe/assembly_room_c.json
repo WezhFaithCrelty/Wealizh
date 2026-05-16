@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghg"
+  ],
+  "key": {
+    "a": "wealizh:steel_frame",
+    "b": "wealizh:power_booster_unit",
+    "c": "wealizh:gear_assembly",
+    "d": "minecraft:crafter",
+    "e": "minecraft:piston",
+    "f": "wealizh:red_copper_cable",
+    "g": "#wealizh:iron_block",
+    "h": "wealizh:storage_battery"
+  },
+  "result": {
+    "id": "wealizh:assembly_room",
+    "count": 1
+  }
+}

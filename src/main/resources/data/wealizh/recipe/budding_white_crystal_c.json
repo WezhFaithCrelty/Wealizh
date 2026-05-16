@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "wealizh:small_white_crystal_bud",
+    "b": "wealizh:white_crystal_block"
+  },
+  "result": {
+    "id": "wealizh:budding_white_crystal",
+    "count": 1
+  }
+}

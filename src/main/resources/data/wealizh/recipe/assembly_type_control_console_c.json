@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "wealizh:red_copper_cable",
+    "c": "wealizh:low_level_chips",
+    "d": "minecraft:observer"
+  },
+  "result": {
+    "id": "wealizh:assembly_type_control_console",
+    "count": 1
+  }
+}

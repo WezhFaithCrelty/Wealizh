@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "wealizh:zinc_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:brass_ingot",
+      "count": 1
+    }
+  ]
+}

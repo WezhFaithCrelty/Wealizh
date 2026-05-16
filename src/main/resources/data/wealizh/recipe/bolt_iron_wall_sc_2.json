@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:iron_wall",
+  "result": {
+    "id": "wealizh:bolt_iron_wall",
+    "count": 1
+  }
+}

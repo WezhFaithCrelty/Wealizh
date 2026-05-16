@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "wealizh:iron_plate",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:blade",
+    "count": 1
+  }
+}

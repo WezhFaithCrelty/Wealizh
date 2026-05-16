@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dripstone_block",
+    "wealizh:aluminum_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:tuff"
+  ],
+  "result": {
+    "id": "minecraft:calcite",
+    "count": 2
+  }
+}

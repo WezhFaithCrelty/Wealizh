@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:a_pinch_brass_powder"
+  },
+  "result": {
+    "id": "wealizh:brass_powder",
+    "count": 1
+  }
+}

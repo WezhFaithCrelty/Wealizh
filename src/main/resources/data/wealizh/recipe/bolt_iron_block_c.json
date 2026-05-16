@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "wealizh:bolt_iron_block",
+    "count": 1
+  }
+}

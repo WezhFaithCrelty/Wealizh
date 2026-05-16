@@ -1,0 +1,25 @@
+{
+  "type": "wealizh:centrifugal_extraction_jei",
+  "ingredients": [
+    "#wealizh:jei_empty_tag",
+    "wealizh:funbicobalt_powder"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:empty",
+      "count": 1
+    },
+    {
+      "id": "wealizh:empty",
+      "count": 1
+    },
+    {
+      "id": "wealizh:a_pinch_pure_funbicobalt_powder",
+      "count": 7
+    },
+    {
+      "id": "wealizh:a_pinch_funbelity_powder",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:amethyst_cluster",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:amethyst_shard",
+      "count": 4
+    }
+  ]
+}

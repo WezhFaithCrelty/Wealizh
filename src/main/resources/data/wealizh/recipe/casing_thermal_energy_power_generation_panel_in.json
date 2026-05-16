@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:interaction_jei",
+  "ingredients": [
+    "wealizh:thermal_energy_power_generation_panel",
+    "wealizh:hand_interaction",
+    "wealizh:iron_plate"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:casing_thermal_energy_power_generation_panel",
+      "count": 1
+    }
+  ]
+}
