@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot",
+    "b": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "wealizh:gold_thread",
+    "count": 2
+  }
+}

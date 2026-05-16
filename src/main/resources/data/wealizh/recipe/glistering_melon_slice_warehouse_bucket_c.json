@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice",
+    "wealizh:warehouse_bucket",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice",
+    "minecraft:glistering_melon_slice"
+  ],
+  "result": {
+    "id": "wealizh:glistering_melon_slice_warehouse_bucket",
+    "count": 1
+  }
+}

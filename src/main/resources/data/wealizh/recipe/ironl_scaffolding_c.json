@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "wealizh:ironl_scaffolding",
+    "count": 1
+  }
+}

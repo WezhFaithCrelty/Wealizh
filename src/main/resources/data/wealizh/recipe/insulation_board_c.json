@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:clay_ball",
+    "b": "#wealizh:ore_coal_powder",
+    "c": "#minecraft:wool_carpets"
+  },
+  "result": {
+    "id": "wealizh:insulation_board",
+    "count": 3
+  }
+}

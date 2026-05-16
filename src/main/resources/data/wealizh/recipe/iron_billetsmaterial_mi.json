@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:iron_powder",
+    "minecraft:iron_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:iron_nugget",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:iron_billetsmaterial",
+      "count": 1
+    }
+  ]
+}

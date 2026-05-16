@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "#minecraft:wool_carpets",
+    "#wealizh:ore_coal_powder",
+    "minecraft:clay_ball"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:insulation_board",
+      "count": 1
+    }
+  ]
+}

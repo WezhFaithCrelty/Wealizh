@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:iron_plate",
+    "b": "wealizh:steel_plate",
+    "c": "wealizh:steel_shaft",
+    "d": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:layer_covers_plate",
+    "count": 1
+  }
+}

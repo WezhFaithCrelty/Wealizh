@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:gold_plate",
+      "count": 1
+    }
+  ]
+}

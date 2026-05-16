@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 5.6,
+  "cookingtime": 1000,
+  "ingredient": "wealizh:raw_honesilver_block",
+  "result": {
+    "id": "wealizh:honesilver_block"
+  }
+}

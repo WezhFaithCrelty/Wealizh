@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:iron_gear_blade",
+    "count": 1
+  }
+}

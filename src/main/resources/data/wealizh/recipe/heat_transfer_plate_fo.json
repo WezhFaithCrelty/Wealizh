@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "minecraft:iron_trapdoor",
+    "wealizh:steel_ingot",
+    "wealizh:steel_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:heat_transfer_plate",
+      "count": 1
+    }
+  ]
+}

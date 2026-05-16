@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:graphitelead_block"
+  },
+  "result": {
+    "id": "wealizh:graphitelead_ingot",
+    "count": 9
+  }
+}

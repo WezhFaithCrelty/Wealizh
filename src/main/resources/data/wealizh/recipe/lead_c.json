@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:string",
+    "b": "wealizh:rope"
+  },
+  "result": {
+    "id": "minecraft:lead",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_plate",
+    "b": "wealizh:graphite_powder",
+    "c": "wealizh:titanium_ingot"
+  },
+  "result": {
+    "id": "wealizh:industrial_furnace_wall",
+    "count": 1
+  }
+}

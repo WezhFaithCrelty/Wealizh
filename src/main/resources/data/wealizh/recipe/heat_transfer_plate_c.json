@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc",
+    "ddd"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "wealizh:steel_nugget",
+    "c": "minecraft:iron_trapdoor",
+    "d": "wealizh:steel_ingot"
+  },
+  "result": {
+    "id": "wealizh:heat_transfer_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": "wealizh:rocker",
+    "b": "wealizh:zinc_ingot",
+    "c": "#wealizh:iron_block",
+    "d": "wealizh:aluminum_ingot",
+    "e": "wealizh:red_copper_thread"
+  },
+  "result": {
+    "id": "wealizh:hand_cranked_generator",
+    "count": 1
+  }
+}

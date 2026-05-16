@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "bab",
+    "aa "
+  ],
+  "key": {
+    "a": "wealizh:insulation_board",
+    "b": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "wealizh:insulation_hose",
+    "count": 4
+  }
+}

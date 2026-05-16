@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:graphite_powder",
+    "wealizh:lead_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "wealizh:lead_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:graphitelead_ingot",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "wealizh:forging_jei",
+  "ingredients": [
+    "wealizh:graphitelead_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:graphitelead_plate",
+      "count": 1
+    }
+  ]
+}

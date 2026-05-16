@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": "#c:glass_panes",
+    "b": "wealizh:gas_tank_argon_gas",
+    "c": "minecraft:iron_nugget",
+    "d": "wealizh:tungsten_thread",
+    "e": "wealizh:silver_ingot"
+  },
+  "result": {
+    "id": "wealizh:incandescent_light_bulb",
+    "count": 2
+  }
+}
