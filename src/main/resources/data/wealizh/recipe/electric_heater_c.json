@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": "wealizh:nickel_chromium_alloy_coil",
+    "b": "wealizh:iron_plate",
+    "c": "wealizh:red_copper_coil",
+    "d": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:electric_heater",
+    "count": 1
+  }
+}

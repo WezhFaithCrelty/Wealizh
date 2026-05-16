@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:water_bucket",
+    "b": "wealizh:fluid_tank_empty"
+  },
+  "result": {
+    "id": "wealizh:fluid_tank_water",
+    "count": 1
+  }
+}

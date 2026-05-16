@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:detonator"
+  },
+  "result": {
+    "id": "wealizh:detonator_block",
+    "count": 1
+  }
+}

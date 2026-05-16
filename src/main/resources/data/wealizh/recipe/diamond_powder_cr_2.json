@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:diamond_ore",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:diamond_powder",
+      "count": 2
+    }
+  ]
+}

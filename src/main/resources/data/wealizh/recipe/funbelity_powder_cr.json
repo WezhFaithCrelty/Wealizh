@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:funbelity",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:funbelity_powder",
+      "count": 1
+    }
+  ]
+}

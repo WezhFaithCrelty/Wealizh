@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_funbelity_powder",
+    "wealizh:a_pinch_funbelity_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder",
+    "wealizh:a_pinch_pure_funbicobalt_powder"
+  ],
+  "result": {
+    "id": "wealizh:funbicobalt",
+    "count": 1
+  }
+}

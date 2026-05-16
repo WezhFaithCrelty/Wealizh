@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:egg",
+    "minecraft:egg",
+    "minecraft:egg",
+    "minecraft:egg",
+    "wealizh:warehouse_bucket",
+    "minecraft:egg",
+    "minecraft:egg",
+    "minecraft:egg",
+    "minecraft:egg"
+  ],
+  "result": {
+    "id": "wealizh:egg_warehouse_bucket",
+    "count": 1
+  }
+}

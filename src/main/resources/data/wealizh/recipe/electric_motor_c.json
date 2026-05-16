@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "dab",
+    "edf"
+  ],
+  "key": {
+    "a": "wealizh:steel_shaft",
+    "b": "minecraft:iron_ingot",
+    "c": "wealizh:copper_thread",
+    "d": "wealizh:red_copper_coil",
+    "e": "wealizh:steel_thread",
+    "f": "wealizh:steel_pipe"
+  },
+  "result": {
+    "id": "wealizh:electric_motor",
+    "count": 1
+  }
+}

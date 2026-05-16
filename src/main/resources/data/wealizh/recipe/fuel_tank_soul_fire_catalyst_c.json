@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:blaze_powder",
+    "b": "#minecraft:soul_fire_base_blocks",
+    "c": "wealizh:fuel_tank_empty"
+  },
+  "result": {
+    "id": "wealizh:fuel_tank_soul_fire_catalyst",
+    "count": 1
+  }
+}

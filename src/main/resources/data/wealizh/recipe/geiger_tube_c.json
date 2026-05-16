@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cda",
+    "aea"
+  ],
+  "key": {
+    "a": "wealizh:graphitelead_plate",
+    "b": "wealizh:copper_thread",
+    "c": "#c:glass_panes",
+    "d": "wealizh:gas_tank_argon_gas",
+    "e": "wealizh:graphitelead_ingot"
+  },
+  "result": {
+    "id": "wealizh:geiger_tube",
+    "count": 1
+  }
+}

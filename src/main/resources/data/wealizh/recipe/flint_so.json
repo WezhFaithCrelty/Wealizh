@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:soaking_jei",
+  "ingredients": [
+    "minecraft:gravel",
+    "wealizh:water"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:flint",
+      "count": 1
+    }
+  ]
+}

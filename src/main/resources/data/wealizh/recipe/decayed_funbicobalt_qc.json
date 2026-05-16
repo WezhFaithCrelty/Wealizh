@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:qualitative_change_jei",
+  "ingredients": [
+    "wealizh:funbicobalt"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:decayed_funbicobalt",
+      "count": 1
+    }
+  ]
+}

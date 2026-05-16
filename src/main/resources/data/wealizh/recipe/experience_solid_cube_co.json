@@ -1,0 +1,20 @@
+{
+  "type": "wealizh:compress_jei",
+  "ingredients": [
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget",
+    "wealizh:experience_cube_nugget"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:experience_solid_cube",
+      "count": 1
+    }
+  ]
+}

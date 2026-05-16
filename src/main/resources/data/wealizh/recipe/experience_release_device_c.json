@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": "wealizh:experience_particle",
+    "b": "minecraft:dripstone_block",
+    "c": "wealizh:zhegncopper_ingot",
+    "d": "wealizh:steel_plate",
+    "e": "minecraft:iron_trapdoor"
+  },
+  "result": {
+    "id": "wealizh:experience_release_device",
+    "count": 1
+  }
+}

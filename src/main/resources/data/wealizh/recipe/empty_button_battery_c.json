@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:aluminum_ingot",
+    "b": "wealizh:zinc_ingot",
+    "c": "minecraft:iron_nugget",
+    "d": "wealizh:copper_coil"
+  },
+  "result": {
+    "id": "wealizh:empty_button_battery",
+    "count": 1
+  }
+}

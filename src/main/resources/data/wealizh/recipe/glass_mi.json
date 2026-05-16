@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "#wealizh:jei_empty_tag",
+    "wealizh:glass_shards",
+    "wealizh:glass_shards",
+    "wealizh:glass_shards",
+    "wealizh:glass_shards",
+    "wealizh:glass_shards",
+    "wealizh:glass_shards",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:glass",
+      "count": 1
+    }
+  ]
+}

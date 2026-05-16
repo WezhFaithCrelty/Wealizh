@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "wealizh:stone_powder",
+    "b": "minecraft:paper"
+  },
+  "result": {
+    "id": "wealizh:fireproof_paper",
+    "count": 1
+  }
+}

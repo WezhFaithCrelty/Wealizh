@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "wealizh:glass_shards",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:glass_fragments",
+      "count": 4
+    }
+  ]
+}

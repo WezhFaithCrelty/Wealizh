@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "wealizh:warehouse_bucket",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple"
+  ],
+  "result": {
+    "id": "wealizh:enchanted_golden_apple_warehouse_bucket",
+    "count": 1
+  }
+}

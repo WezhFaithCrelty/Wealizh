@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:emerald",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:emerald_powder",
+      "count": 1
+    }
+  ]
+}

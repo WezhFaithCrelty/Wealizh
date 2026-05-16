@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:copper_plate",
+    "wealizh:copper_plate",
+    "minecraft:iron_trapdoor",
+    "wealizh:copper_plate",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "wealizh:brass_ingot",
+    "wealizh:copper_plate",
+    "wealizh:copper_plate",
+    "wealizh:brass_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "wealizh:copper_coil",
+    "wealizh:brass_thread",
+    "wealizh:brass_thread",
+    "wealizh:copper_coil"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:discharge_box",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:funbelity_block"
+  },
+  "result": {
+    "id": "wealizh:funbelity",
+    "count": 9
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "ffg"
+  ],
+  "key": {
+    "a": "wealizh:steel_shaft",
+    "b": "wealizh:buzzer",
+    "c": "wealizh:low_level_chips",
+    "d": "wealizh:red_copper_coil",
+    "e": "wealizh:power_booster_unit",
+    "f": "wealizh:copper_thread",
+    "g": "wealizh:geiger_tube"
+  },
+  "result": {
+    "id": "wealizh:geiger_counter",
+    "count": 1
+  }
+}

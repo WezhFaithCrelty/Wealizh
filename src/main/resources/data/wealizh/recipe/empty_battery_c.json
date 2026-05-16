@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cbc",
+    "cbc"
+  ],
+  "key": {
+    "a": "#wealizh:ore_coal_powder",
+    "b": "#wealizh:battery/button_battery",
+    "c": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:empty_battery",
+    "count": 1
+  }
+}

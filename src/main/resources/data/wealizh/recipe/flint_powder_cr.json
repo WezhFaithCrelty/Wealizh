@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:flint",
+    "#wealizh:gear_blade"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:flint_powder",
+      "count": 1
+    }
+  ]
+}

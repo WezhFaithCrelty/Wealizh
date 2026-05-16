@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:rapid_qualitative_change_machine_jei",
+  "ingredients": [
+    "wealizh:funbicobalt",
+    "#wealizh:qualitative_change_substance_nucleus"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:decayed_funbicobalt",
+      "count": 1
+    }
+  ]
+}

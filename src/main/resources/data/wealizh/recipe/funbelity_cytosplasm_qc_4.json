@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:qualitative_change_jei",
+  "ingredients": [
+    "wealizh:compressed_funbelity"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:funbelity_cytosplasm",
+      "count": 9
+    }
+  ]
+}

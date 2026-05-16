@@ -1,0 +1,25 @@
+{
+  "type": "wealizh:centrifugal_extraction_jei",
+  "ingredients": [
+    "#wealizh:jei_empty_tag",
+    "minecraft:glowstone_dust"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:fluorine_gas",
+      "count": 1
+    },
+    {
+      "id": "wealizh:empty",
+      "count": 1
+    },
+    {
+      "id": "wealizh:a_pinch_brass_powder",
+      "count": 6
+    },
+    {
+      "id": "wealizh:a_pinch_honesilver_powder",
+      "count": 3
+    }
+  ]
+}

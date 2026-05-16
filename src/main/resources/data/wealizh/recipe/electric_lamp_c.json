@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:brass_ingot",
+    "b": "#c:glass_panes",
+    "c": "wealizh:incandescent_light_bulb"
+  },
+  "result": {
+    "id": "wealizh:electric_lamp",
+    "count": 1
+  }
+}

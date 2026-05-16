@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:glass_pane"
+  },
+  "result": {
+    "id": "wealizh:glass_baffle_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:qualitative_change_jei",
+  "ingredients": [
+    "wealizh:funbielumituo"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:funbielucurtuo",
+      "count": 1
+    }
+  ]
+}

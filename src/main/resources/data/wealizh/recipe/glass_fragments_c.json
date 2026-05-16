@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:glass_shards"
+  },
+  "result": {
+    "id": "wealizh:glass_fragments",
+    "count": 4
+  }
+}

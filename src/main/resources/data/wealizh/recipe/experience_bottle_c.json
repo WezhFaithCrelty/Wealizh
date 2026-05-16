@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": "wealizh:experience_nugget",
+    "b": "wealizh:experience_particle",
+    "c": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "count": 1
+  }
+}

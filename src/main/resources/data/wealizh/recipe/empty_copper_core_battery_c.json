@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cbc",
+    "dbd"
+  ],
+  "key": {
+    "a": "wealizh:copper_plate",
+    "b": "#wealizh:battery/battery",
+    "c": "wealizh:copper_powder",
+    "d": "wealizh:iron_plate"
+  },
+  "result": {
+    "id": "wealizh:empty_copper_core_battery",
+    "count": 1
+  }
+}

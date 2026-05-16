@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ede"
+  ],
+  "key": {
+    "a": "wealizh:aluminum_copper_alloy_plate",
+    "b": "minecraft:iron_nugget",
+    "c": "wealizh:aluminum_copper_alloy_powder",
+    "d": "#wealizh:battery/copper_core_battery",
+    "e": "wealizh:aluminum_plate"
+  },
+  "result": {
+    "id": "wealizh:empty_aluminum_copper_alloy_battery",
+    "count": 1
+  }
+}

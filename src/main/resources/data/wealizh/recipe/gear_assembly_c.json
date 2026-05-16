@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "cac",
+    "abb"
+  ],
+  "key": {
+    "a": "wealizh:small_gear",
+    "b": "wealizh:gear",
+    "c": "wealizh:steel_shaft"
+  },
+  "result": {
+    "id": "wealizh:gear_assembly",
+    "count": 1
+  }
+}

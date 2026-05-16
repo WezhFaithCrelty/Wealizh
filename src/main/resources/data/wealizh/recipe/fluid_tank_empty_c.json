@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:iron_plate",
+    "b": "wealizh:silver_plate"
+  },
+  "result": {
+    "id": "wealizh:fluid_tank_empty",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:flint"
+  },
+  "result": {
+    "id": "wealizh:flint_block",
+    "count": 1
+  }
+}

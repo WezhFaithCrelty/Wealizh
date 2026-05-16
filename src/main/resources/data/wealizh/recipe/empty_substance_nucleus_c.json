@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "#c:glass_panes",
+    "b": "#c:glass_blocks/cheap"
+  },
+  "result": {
+    "id": "wealizh:empty_substance_nucleus",
+    "count": 1
+  }
+}

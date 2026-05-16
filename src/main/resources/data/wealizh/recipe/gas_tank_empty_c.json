@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "ccc"
+  ],
+  "key": {
+    "a": "wealizh:silver_nugget",
+    "b": "wealizh:brass_nugget",
+    "c": "wealizh:iron_plate"
+  },
+  "result": {
+    "id": "wealizh:gas_tank_empty",
+    "count": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:solid_experience"
+  },
+  "result": {
+    "id": "wealizh:experience_solid_cube",
+    "count": 9
+  }
+}

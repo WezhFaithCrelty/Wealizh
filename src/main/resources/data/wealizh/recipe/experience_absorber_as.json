@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "minecraft:iron_trapdoor",
+    "#wealizh:jei_empty_tag",
+    "minecraft:experience_bottle",
+    "#wealizh:jei_empty_tag",
+    "wealizh:steel_plate",
+    "minecraft:dripstone_block",
+    "#wealizh:jei_empty_tag",
+    "minecraft:experience_bottle",
+    "minecraft:experience_bottle",
+    "#wealizh:jei_empty_tag",
+    "minecraft:dripstone_block",
+    "wealizh:steel_plate",
+    "wealizh:brass_ingot",
+    "wealizh:zhegncopper_powder",
+    "wealizh:zhegncopper_powder",
+    "wealizh:brass_ingot",
+    "wealizh:rock_crystal",
+    "minecraft:emerald",
+    "minecraft:blackstone",
+    "minecraft:crying_obsidian"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:experience_absorber",
+      "count": 1
+    }
+  ]
+}
