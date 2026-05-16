@@ -1,0 +1,16 @@
+{
+  "values": {
+    "wealizh:decayed_log": {
+      "chance": 1
+    },
+    "wealizh:died_short_grass": {
+      "chance": 0.3
+    },
+    "wealizh:died_tall_grass": {
+      "chance": 0.5
+    },
+    "wealizh:humus": {
+      "chance": 1
+    }
+  }
+}
