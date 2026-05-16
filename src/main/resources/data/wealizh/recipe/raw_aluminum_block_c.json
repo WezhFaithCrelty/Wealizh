@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:raw_aluminum"
+  },
+  "result": {
+    "id": "wealizh:raw_aluminum_block",
+    "count": 1
+  }
+}

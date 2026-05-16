@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:red_copper_ingot"
+  },
+  "result": {
+    "id": "wealizh:red_copper_nugget",
+    "count": 9
+  }
+}

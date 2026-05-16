@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "a": "wealizh:fireproof_paper",
+    "b": "minecraft:paper"
+  },
+  "result": {
+    "id": "wealizh:planning_paper_empty",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "#wealizh:battery/battery",
+    "wealizh:steel_ingot",
+    "minecraft:hopper",
+    "wealizh:steel_ingot",
+    "#wealizh:steel_block",
+    "#wealizh:iron_block",
+    "wealizh:steel_frame",
+    "minecraft:iron_trapdoor",
+    "minecraft:iron_trapdoor",
+    "wealizh:steel_frame",
+    "#wealizh:iron_block",
+    "#wealizh:steel_block",
+    "wealizh:copper_cable",
+    "wealizh:aluminum_ingot",
+    "wealizh:brass_ingot",
+    "wealizh:red_copper_cable",
+    "minecraft:cauldron",
+    "minecraft:clay_ball",
+    "minecraft:paper",
+    "wealizh:graphite_powder"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:pressing_storage_room",
+      "count": 1
+    }
+  ]
+}

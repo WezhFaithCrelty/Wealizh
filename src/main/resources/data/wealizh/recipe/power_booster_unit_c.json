@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "eee"
+  ],
+  "key": {
+    "a": "wealizh:copper_thread",
+    "b": "minecraft:quartz",
+    "c": "wealizh:red_copper_thread",
+    "d": "wealizh:gold_thread",
+    "e": "wealizh:insulation_board"
+  },
+  "result": {
+    "id": "wealizh:power_booster_unit",
+    "count": 1
+  }
+}

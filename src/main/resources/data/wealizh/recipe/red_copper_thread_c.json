@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:red_copper_ingot",
+    "b": "wealizh:red_copper_nugget"
+  },
+  "result": {
+    "id": "wealizh:red_copper_thread",
+    "count": 2
+  }
+}

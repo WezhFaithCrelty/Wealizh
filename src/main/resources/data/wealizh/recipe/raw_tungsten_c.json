@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:raw_tungsten_block"
+  },
+  "result": {
+    "id": "wealizh:raw_tungsten",
+    "count": 9
+  }
+}

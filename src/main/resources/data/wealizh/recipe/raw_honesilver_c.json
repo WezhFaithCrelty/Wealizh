@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:raw_honesilver_block"
+  },
+  "result": {
+    "id": "wealizh:raw_honesilver",
+    "count": 9
+  }
+}

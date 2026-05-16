@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:solid_plate",
+    "wealizh:rebar",
+    "#wealizh:steel_block",
+    "wealizh:rebar",
+    "wealizh:steel_ingot",
+    "wealizh:rebar",
+    "wealizh:steel_ingot",
+    "#wealizh:steel_block",
+    "#wealizh:steel_block",
+    "wealizh:steel_ingot",
+    "wealizh:rebar",
+    "wealizh:steel_ingot",
+    "#wealizh:iron_block",
+    "wealizh:copper_cable",
+    "wealizh:red_copper_cable",
+    "#wealizh:iron_block",
+    "wealizh:diamond_powder",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "wealizh:aluminum_powder"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:pressing_machine",
+      "count": 1
+    }
+  ]
+}

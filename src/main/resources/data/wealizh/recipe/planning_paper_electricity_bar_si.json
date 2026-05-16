@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "wealizh:planning_paper_empty",
+  "base": "wealizh:wire",
+  "addition": "wealizh:graphite",
+  "result": {
+    "id": "wealizh:planning_paper_electricity_bar"
+  }
+}

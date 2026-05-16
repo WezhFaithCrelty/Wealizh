@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:decay_jei",
+  "ingredients": [
+    "wealizh:rock_crystal_powder"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:quartz_powder",
+      "count": 1
+    }
+  ]
+}

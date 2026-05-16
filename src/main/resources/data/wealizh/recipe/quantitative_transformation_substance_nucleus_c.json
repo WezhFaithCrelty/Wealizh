@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:brass_ingot",
+    "b": "minecraft:redstone",
+    "c": "wealizh:empty_substance_nucleus"
+  },
+  "result": {
+    "id": "wealizh:quantitative_transformation_substance_nucleus",
+    "count": 1
+  }
+}

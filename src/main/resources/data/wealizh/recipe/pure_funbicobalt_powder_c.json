@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:a_pinch_pure_funbicobalt_powder"
+  },
+  "result": {
+    "id": "wealizh:pure_funbicobalt_powder",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:raw_uranium_block"
+  },
+  "result": {
+    "id": "wealizh:raw_uranium",
+    "count": 9
+  }
+}

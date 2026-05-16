@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:coal",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:raw_steel",
+      "count": 1
+    }
+  ]
+}

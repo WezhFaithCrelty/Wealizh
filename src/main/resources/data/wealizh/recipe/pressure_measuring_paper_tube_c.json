@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "minecraft:bone_meal",
+    "b": "minecraft:paper",
+    "c": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "wealizh:pressure_measuring_paper_tube",
+    "count": 2
+  }
+}

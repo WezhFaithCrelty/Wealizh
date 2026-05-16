@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "minecraft:chiseled_stone_bricks",
+    "wealizh:steel_ingot",
+    "wealizh:slowlnsresponse_perforated_plate",
+    "wealizh:steel_ingot",
+    "#wealizh:iron_block",
+    "wealizh:steel_shaft",
+    "#c:glass_panes",
+    "#c:glass_panes",
+    "#c:glass_panes",
+    "#c:glass_panes",
+    "wealizh:steel_shaft",
+    "#wealizh:iron_block",
+    "wealizh:steel_shaft",
+    "minecraft:iron_trapdoor",
+    "wealizh:silver_thread",
+    "wealizh:steel_shaft",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:rapid_qualitative_change_machine",
+      "count": 1
+    }
+  ]
+}

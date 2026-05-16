@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:quartz_powder",
+    "b": "wealizh:funbicobalt_powder",
+    "c": "wealizh:empty_substance_nucleus"
+  },
+  "result": {
+    "id": "wealizh:qualitative_change_substance_nucleus",
+    "count": 1
+  }
+}

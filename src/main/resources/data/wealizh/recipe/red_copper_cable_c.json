@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "bbb",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:insulation_board",
+    "b": "wealizh:red_copper_thread"
+  },
+  "result": {
+    "id": "wealizh:red_copper_cable",
+    "count": 1
+  }
+}

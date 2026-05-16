@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "minecraft:red_mushroom_block"
+  },
+  "result": {
+    "id": "minecraft:red_mushroom",
+    "count": 9
+  }
+}

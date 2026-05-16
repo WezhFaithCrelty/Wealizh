@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:rebar"
+  },
+  "result": {
+    "id": "wealizh:steel_pipe",
+    "count": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "minecraft:lapis_block",
+    "wealizh:silver_ingot",
+    "wealizh:brass_ingot",
+    "wealizh:silver_ingot",
+    "minecraft:blue_ice",
+    "minecraft:diamond",
+    "wealizh:steel_ingot",
+    "wealizh:steel_ingot",
+    "wealizh:steel_ingot",
+    "wealizh:steel_ingot",
+    "minecraft:diamond",
+    "minecraft:blue_ice",
+    "#wealizh:iron_block",
+    "wealizh:aluminum_thread",
+    "wealizh:silver_thread",
+    "#wealizh:iron_block",
+    "wealizh:slowlnsresponse_perforated_plate",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "wealizh:brass_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:quantitative_transformation_reconstructor",
+      "count": 1
+    }
+  ]
+}

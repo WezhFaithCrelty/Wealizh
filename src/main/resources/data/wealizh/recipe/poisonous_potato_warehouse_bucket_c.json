@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "wealizh:warehouse_bucket",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato"
+  ],
+  "result": {
+    "id": "wealizh:poisonous_potato_warehouse_bucket",
+    "count": 1
+  }
+}

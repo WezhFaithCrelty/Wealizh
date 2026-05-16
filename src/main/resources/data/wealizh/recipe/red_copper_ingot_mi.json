@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "minecraft:redstone",
+    "minecraft:gold_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:red_copper_ingot",
+      "count": 2
+    }
+  ]
+}
