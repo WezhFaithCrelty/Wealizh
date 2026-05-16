@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:humus",
+    "wealizh:molten_sand_solidification_substance",
+    "wealizh:radioactive_fallout",
+    "wealizh:peat_block",
+    "wealizh:died_grass_block",
+    "wealizh:cobaltized_sand"
+  ]
+}

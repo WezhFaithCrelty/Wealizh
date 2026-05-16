@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:steel_wall",
+    "wealizh:bolt_iron_wall",
+    "wealizh:iron_wall",
+    "wealizh:smooth_steel_wall",
+    "wealizh:charred_stone_wall",
+    "wealizh:smooth_iron_wall"
+  ]
+}

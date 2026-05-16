@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:steel_slab",
+    "wealizh:bolt_iron_slab",
+    "wealizh:iron_slab",
+    "wealizh:smooth_iron_slab",
+    "wealizh:charcoalized_planks_slab",
+    "wealizh:charred_stone_slab",
+    "wealizh:smooth_steel_slab"
+  ]
+}

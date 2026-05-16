@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:poison",
+    "wealizh:divide_by_zero",
+    "wealizh:coal_dust",
+    "wealizh:radiation_injury"
+  ]
+}

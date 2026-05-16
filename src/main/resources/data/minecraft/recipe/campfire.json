@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "#wealizh:coal",
+    "c": "#minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:campfire",
+    "count": 1
+  }
+}

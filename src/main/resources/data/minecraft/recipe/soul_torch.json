@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "#wealizh:coal",
+    "b": "minecraft:stick",
+    "c": "#minecraft:soul_fire_base_blocks"
+  },
+  "result": {
+    "id": "minecraft:soul_torch",
+    "count": 4
+  }
+}

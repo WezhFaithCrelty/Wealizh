@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:peeling_sugar_cane"
+  },
+  "result": {
+    "id": "minecraft:sugar",
+    "count": 1
+  }
+}

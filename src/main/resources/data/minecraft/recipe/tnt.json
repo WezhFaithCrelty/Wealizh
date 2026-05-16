@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:gunpowder",
+    "b": "wealizh:redstone_wiring_lead",
+    "c": "minecraft:paper",
+    "d": "wealizh:composite_gunpowder"
+  },
+  "result": {
+    "id": "minecraft:tnt",
+    "count": 1
+  }
+}

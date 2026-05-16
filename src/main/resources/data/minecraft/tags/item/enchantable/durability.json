@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:steel_piston_group",
+    "wealizh:silver_gear_blade",
+    "wealizh:copper_core_battery",
+    "wealizh:steel_gear_blade",
+    "wealizh:copper_gear_blade",
+    "wealizh:battery",
+    "wealizh:iron_gear_blade",
+    "wealizh:qualitative_change_substance_nucleus",
+    "wealizh:fuel_tank_soul_fire_catalyst",
+    "wealizh:button_battery",
+    "wealizh:quantitative_transformation_substance_nucleus",
+    "wealizh:netherite_gear_blade",
+    "wealizh:aluminum_copper_alloy_battery",
+    "wealizh:overpressure_qualitative_change_substance_nucleus"
+  ]
+}

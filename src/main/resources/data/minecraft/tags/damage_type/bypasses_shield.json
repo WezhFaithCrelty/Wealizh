@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:poison",
+    "wealizh:divide_by_zero",
+    "wealizh:sudden_high_temperature",
+    "wealizh:coal_dust",
+    "wealizh:radiation_injury"
+  ]
+}

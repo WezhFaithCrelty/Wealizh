@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "minecraft:stripped_bamboo_block"
+  },
+  "result": {
+    "id": "minecraft:bamboo_planks",
+    "count": 4
+  }
+}

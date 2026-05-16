@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " c "
+  ],
+  "key": {
+    "a": "minecraft:gold_nugget",
+    "b": "#c:glass_panes",
+    "c": "minecraft:gold_ingot",
+    "d": "wealizh:clock_component"
+  },
+  "result": {
+    "id": "minecraft:clock",
+    "count": 1
+  }
+}

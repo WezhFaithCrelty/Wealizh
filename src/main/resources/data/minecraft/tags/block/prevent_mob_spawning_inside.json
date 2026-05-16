@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:charred_bedrock",
+    "wealizh:charcoalized_planks_stair",
+    "wealizh:humus",
+    "wealizh:charcoalized_log",
+    "wealizh:decayed_log",
+    "wealizh:molten_high_temperature_solidified_substance",
+    "wealizh:charred_stone_stair",
+    "wealizh:died_grass_block",
+    "wealizh:charred_stone_slab",
+    "wealizh:charcoalized_planks_slab",
+    "wealizh:charred_stone",
+    "wealizh:charcoalized_planks"
+  ]
+}

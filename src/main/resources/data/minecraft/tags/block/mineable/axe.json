@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:beetroot_warehouse_bucket",
+    "wealizh:charcoalized_planks_stair",
+    "wealizh:sugar_cane_warehouse_bucket",
+    "wealizh:golden_carrot_warehouse_bucket",
+    "wealizh:potato_warehouse_bucket",
+    "wealizh:poisonous_potato_warehouse_bucket",
+    "wealizh:humus_warehouse_bucket",
+    "wealizh:sweet_berries_warehouse_bucket",
+    "wealizh:charcoalized_planks_slab",
+    "wealizh:glistering_melon_slice_warehouse_bucket",
+    "wealizh:enchanted_golden_apple_warehouse_bucket",
+    "wealizh:apple_warehouse_bucket",
+    "wealizh:charcoalized_planks_fence",
+    "wealizh:egg_warehouse_bucket",
+    "wealizh:golden_apple_warehouse_bucket",
+    "wealizh:charcoalized_log",
+    "wealizh:decayed_log",
+    "wealizh:charcoalized_planks_fence_gate",
+    "wealizh:glow_berries_warehouse_bucket",
+    "wealizh:warehouse_bucket",
+    "wealizh:charcoalized_planks",
+    "wealizh:carrot_warehouse_bucket"
+  ]
+}

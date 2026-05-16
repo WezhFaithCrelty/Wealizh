@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": "#c:glass_panes",
+    "b": "wealizh:zhegncopper_ingot",
+    "c": "minecraft:quartz",
+    "d": "#minecraft:wooden_slabs",
+    "e": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:daylight_detector",
+    "count": 1
+  }
+}

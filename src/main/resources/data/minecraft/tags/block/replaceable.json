@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:died_short_grass_desert_dust",
+    "wealizh:died_tall_grass",
+    "wealizh:died_tall_grass_desert_dust",
+    "wealizh:died_short_grass"
+  ]
+}

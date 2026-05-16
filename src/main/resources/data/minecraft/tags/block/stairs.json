@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:charcoalized_planks_stair",
+    "wealizh:smooth_iron_stair",
+    "wealizh:charred_stone_stair",
+    "wealizh:bolt_iron_stair",
+    "wealizh:smooth_steel_stair",
+    "wealizh:steel_stair",
+    "wealizh:iron_stair"
+  ]
+}
