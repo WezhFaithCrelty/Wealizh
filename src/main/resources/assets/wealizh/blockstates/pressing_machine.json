@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/pressing_machine"
+    },
+    "facing=east": {
+      "model": "wealizh:block/pressing_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/pressing_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/pressing_machine",
+      "y": 270
+    }
+  }
+}

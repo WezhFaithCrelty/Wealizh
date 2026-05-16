@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/schrodinger_block"
+    },
+    "facing=east": {
+      "model": "wealizh:block/schrodinger_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/schrodinger_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/schrodinger_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "wealizh:block/schrodinger_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "wealizh:block/schrodinger_block",
+      "x": 90
+    }
+  }
+}

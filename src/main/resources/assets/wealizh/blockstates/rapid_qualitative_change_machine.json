@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,display_status=1": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_0"
+    },
+    "facing=north,display_status=2": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_1"
+    },
+    "facing=north,display_status=3": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_2"
+    },
+    "facing=north,display_status=0": {
+      "model": "wealizh:block/rapid_qualitative_change_machine"
+    },
+    "facing=east,display_status=1": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_0",
+      "y": 90
+    },
+    "facing=east,display_status=2": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_1",
+      "y": 90
+    },
+    "facing=east,display_status=3": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_2",
+      "y": 90
+    },
+    "facing=east,display_status=0": {
+      "model": "wealizh:block/rapid_qualitative_change_machine",
+      "y": 90
+    },
+    "facing=south,display_status=1": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_0",
+      "y": 180
+    },
+    "facing=south,display_status=2": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_1",
+      "y": 180
+    },
+    "facing=south,display_status=3": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_2",
+      "y": 180
+    },
+    "facing=south,display_status=0": {
+      "model": "wealizh:block/rapid_qualitative_change_machine",
+      "y": 180
+    },
+    "facing=west,display_status=1": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_0",
+      "y": 270
+    },
+    "facing=west,display_status=2": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_1",
+      "y": 270
+    },
+    "facing=west,display_status=3": {
+      "model": "wealizh:block/rapid_qualitative_change_machine_2",
+      "y": 270
+    },
+    "facing=west,display_status=0": {
+      "model": "wealizh:block/rapid_qualitative_change_machine",
+      "y": 270
+    }
+  }
+}

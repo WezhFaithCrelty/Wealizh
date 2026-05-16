@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/medium_white_crystal_bud"
+    },
+    "facing=east": {
+      "model": "wealizh:block/medium_white_crystal_bud",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/medium_white_crystal_bud",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/medium_white_crystal_bud",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "wealizh:block/medium_white_crystal_bud",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "wealizh:block/medium_white_crystal_bud",
+      "x": 90
+    }
+  }
+}

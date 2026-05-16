@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,open=true": {
+      "model": "wealizh:block/kiln_0"
+    },
+    "facing=north,open=false": {
+      "model": "wealizh:block/kiln"
+    },
+    "facing=east,open=true": {
+      "model": "wealizh:block/kiln_0",
+      "y": 90
+    },
+    "facing=east,open=false": {
+      "model": "wealizh:block/kiln",
+      "y": 90
+    },
+    "facing=south,open=true": {
+      "model": "wealizh:block/kiln_0",
+      "y": 180
+    },
+    "facing=south,open=false": {
+      "model": "wealizh:block/kiln",
+      "y": 180
+    },
+    "facing=west,open=true": {
+      "model": "wealizh:block/kiln_0",
+      "y": 270
+    },
+    "facing=west,open=false": {
+      "model": "wealizh:block/kiln",
+      "y": 270
+    }
+  }
+}

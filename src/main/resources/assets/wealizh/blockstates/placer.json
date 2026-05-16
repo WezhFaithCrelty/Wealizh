@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=true": {
+      "model": "wealizh:block/placer_0"
+    },
+    "active=false": {
+      "model": "wealizh:block/placer"
+    }
+  }
+}

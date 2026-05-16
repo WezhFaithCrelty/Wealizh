@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wealizh:block/steel_slab"
+    },
+    "type=top": {
+      "model": "wealizh:block/steel_slab_top"
+    },
+    "type=double": {
+      "model": "wealizh:block/steel_slab_full"
+    }
+  }
+}

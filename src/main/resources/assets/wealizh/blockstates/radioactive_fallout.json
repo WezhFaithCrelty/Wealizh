@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "cumt=0": {
+      "model": "wealizh:block/radioactive_fallout_0"
+    },
+    "cumt=1": {
+      "model": "wealizh:block/radioactive_fallout_1"
+    },
+    "cumt=2": {
+      "model": "wealizh:block/radioactive_fallout_2"
+    },
+    "cumt=3": {
+      "model": "wealizh:block/radioactive_fallout_3"
+    },
+    "cumt=4": {
+      "model": "wealizh:block/radioactive_fallout_4"
+    },
+    "cumt=5": {
+      "model": "wealizh:block/radioactive_fallout_5"
+    },
+    "cumt=6": {
+      "model": "wealizh:block/radioactive_fallout_6"
+    },
+    "cumt=7": {
+      "model": "wealizh:block/radioactive_fallout_7"
+    },
+    "cumt=8": {
+      "model": "wealizh:block/radioactive_fallout_8"
+    },
+    "cumt=9": {
+      "model": "wealizh:block/radioactive_fallout_9"
+    },
+    "cumt=10": {
+      "model": "wealizh:block/radioactive_fallout_10"
+    },
+    "cumt=11": {
+      "model": "wealizh:block/radioactive_fallout_11"
+    },
+    "cumt=12": {
+      "model": "wealizh:block/radioactive_fallout_12"
+    },
+    "cumt=13": {
+      "model": "wealizh:block/radioactive_fallout_13"
+    },
+    "cumt=14": {
+      "model": "wealizh:block/radioactive_fallout_14"
+    },
+    "cumt=15": {
+      "model": "wealizh:block/radioactive_fallout"
+    }
+  }
+}

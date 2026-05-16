@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "melting_point=2": {
+      "model": "wealizh:block/molten_high_temperature_solidified_substance_0"
+    },
+    "melting_point=3": {
+      "model": "wealizh:block/molten_high_temperature_solidified_substance_1"
+    },
+    "melting_point=4": {
+      "model": "wealizh:block/molten_high_temperature_solidified_substance_2"
+    },
+    "melting_point=5": {
+      "model": "wealizh:block/molten_high_temperature_solidified_substance_3"
+    },
+    "melting_point=1": {
+      "model": "wealizh:block/molten_high_temperature_solidified_substance"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "operation=true": {
+      "model": "wealizh:block/quantitative_transformation_reconstructor_0"
+    },
+    "operation=false": {
+      "model": "wealizh:block/quantitative_transformation_reconstructor"
+    }
+  }
+}

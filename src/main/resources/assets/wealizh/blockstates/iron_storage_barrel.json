@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wealizh:block/iron_storage_barrel"
+    },
+    "facing=east": {
+      "model": "wealizh:block/iron_storage_barrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wealizh:block/iron_storage_barrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wealizh:block/iron_storage_barrel",
+      "y": 270
+    }
+  }
+}

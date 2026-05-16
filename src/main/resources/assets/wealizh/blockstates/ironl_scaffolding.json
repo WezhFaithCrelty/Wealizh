@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wealizh:block/ironl_scaffolding",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wealizh:block/ironl_scaffolding"
+    },
+    "axis=z": {
+      "model": "wealizh:block/ironl_scaffolding",
+      "x": 90
+    }
+  }
+}

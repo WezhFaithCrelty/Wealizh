@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=true": {
+      "model": "wealizh:block/steel_box_0"
+    },
+    "waterlogged=false": {
+      "model": "wealizh:block/steel_box"
+    }
+  }
+}
