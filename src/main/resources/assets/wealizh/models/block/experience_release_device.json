@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/jing_yan_shi_fang_qi_",
+  "textures": {
+    "all": "wealizh:block/jing_yan_shi_fang_qi_",
+    "particle": "wealizh:block/ping_hua_gang_kuai_",
+    "2": "wealizh:block/jing_yan_shi_fang_qi_"
+  },
+  "render_type": "solid"
+}

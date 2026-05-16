@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wealizh:block/ku_ai_cao_cong__fei_tu_",
+    "particle": "wealizh:block/ku_ai_cao_cong__fei_tu_"
+  },
+  "render_type": "cutout"
+}

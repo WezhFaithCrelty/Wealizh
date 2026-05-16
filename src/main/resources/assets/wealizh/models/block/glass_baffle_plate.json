@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/bo_li_zhe_ban_",
+  "textures": {
+    "all": "wealizh:block/bo_li_",
+    "particle": "wealizh:block/bo_li_",
+    "2": "wealizh:block/bo_li_zhe_ban_"
+  },
+  "render_type": "cutout"
+}

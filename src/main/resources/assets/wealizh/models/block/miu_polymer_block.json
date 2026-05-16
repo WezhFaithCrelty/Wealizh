@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/mju_kuai_",
+    "particle": "wealizh:block/kong_"
+  },
+  "render_type": "translucent"
+}

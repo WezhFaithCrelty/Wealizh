@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "top": "wealizh:block/ku_cao_fang_kuai__ding_",
+    "side": "wealizh:block/ku_cao_fang_kuai_",
+    "overlay": "wealizh:block/ku_cao_fang_kuai_",
+    "particle": "minecraft:block/dirt"
+  },
+  "render_type": "solid"
+}

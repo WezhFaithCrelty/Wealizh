@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/beehive_end",
+    "up": "minecraft:block/beehive_end",
+    "north": "wealizh:block/fu_zhi_zhi_cang_tong_",
+    "east": "wealizh:block/fu_zhi_zhi_cang_tong_",
+    "south": "wealizh:block/fu_zhi_zhi_cang_tong_",
+    "west": "wealizh:block/fu_zhi_zhi_cang_tong_",
+    "particle": "minecraft:block/beehive_end"
+  },
+  "render_type": "solid"
+}

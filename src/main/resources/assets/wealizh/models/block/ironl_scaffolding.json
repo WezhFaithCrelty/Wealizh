@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/tie_jiao_shou_jia_",
+  "textures": {
+    "all": "wealizh:block/tie_jiao_shou_jia_",
+    "particle": "wealizh:block/ping_hua_tie_kuai_",
+    "0": "wealizh:block/tie_jiao_shou_jia_"
+  },
+  "render_type": "solid"
+}

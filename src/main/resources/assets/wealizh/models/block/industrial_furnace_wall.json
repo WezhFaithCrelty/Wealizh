@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/gong_ye_lu_bi_",
+    "particle": "wealizh:block/gong_ye_lu_bi_"
+  },
+  "render_type": "solid"
+}

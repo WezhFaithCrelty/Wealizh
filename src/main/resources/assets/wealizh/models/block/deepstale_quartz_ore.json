@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/shen_ceng_shi_ying_kuang_",
+    "particle": "wealizh:block/shen_ceng_shi_ying_kuang_"
+  },
+  "render_type": "solid"
+}

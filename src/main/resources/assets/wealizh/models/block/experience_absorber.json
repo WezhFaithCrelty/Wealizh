@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/jing_yan_xi_shou_qi_",
+    "particle": "wealizh:block/jing_yan_kuai"
+  },
+  "render_type": "solid"
+}

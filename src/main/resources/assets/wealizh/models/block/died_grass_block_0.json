@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/dirt",
+    "up": "wealizh:block/ku_cao_fang_kuai__ding__fei_tu_",
+    "north": "wealizh:block/ku_cao_fang_kuai__fei_tu_",
+    "east": "wealizh:block/ku_cao_fang_kuai__fei_tu_",
+    "south": "wealizh:block/ku_cao_fang_kuai__fei_tu_",
+    "west": "wealizh:block/ku_cao_fang_kuai__fei_tu_",
+    "particle": "minecraft:block/dirt"
+  },
+  "render_type": "solid"
+}

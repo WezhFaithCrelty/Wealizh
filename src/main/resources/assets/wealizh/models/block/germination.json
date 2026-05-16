@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wealizh:block/meng_ya_",
+    "particle": "wealizh:block/meng_ya_"
+  },
+  "render_type": "cutout"
+}

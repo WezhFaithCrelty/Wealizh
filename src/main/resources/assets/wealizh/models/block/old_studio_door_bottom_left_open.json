@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "particle": "wealizh:block/lao_jiu_de_gong_zuo_shi_men__di_",
+    "bottom": "wealizh:block/lao_jiu_de_gong_zuo_shi_men__di_",
+    "top": "wealizh:block/lao_jiu_de_gong_zuo_shi_men_"
+  },
+  "render_type": "solid"
+}

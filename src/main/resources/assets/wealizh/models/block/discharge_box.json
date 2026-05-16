@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/fang_dian_xiang_",
+    "up": "wealizh:block/fang_dian_xiang_2",
+    "north": "wealizh:block/fang_dian_xiang_",
+    "east": "wealizh:block/fang_dian_xiang_",
+    "south": "wealizh:block/fang_dian_xiang_",
+    "west": "wealizh:block/fang_dian_xiang_",
+    "particle": "wealizh:block/fang_dian_xiang_"
+  },
+  "render_type": "solid"
+}

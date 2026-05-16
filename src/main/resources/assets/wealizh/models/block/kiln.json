@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/yao_lu_",
+  "textures": {
+    "all": "wealizh:block/yao_lu_",
+    "particle": "minecraft:block/bricks",
+    "2": "wealizh:block/yao_lu_"
+  },
+  "render_type": "solid"
+}

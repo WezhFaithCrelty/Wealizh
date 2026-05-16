@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/tie_liang_",
+  "textures": {
+    "all": "wealizh:block/tie_liang_",
+    "particle": "wealizh:block/tie_liang_",
+    "1": "wealizh:block/tie_liang_"
+  },
+  "render_type": "solid"
+}

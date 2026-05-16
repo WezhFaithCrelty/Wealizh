@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/dian_re_qi__di_",
+    "up": "wealizh:block/dian_re_qi__yun_xing_",
+    "north": "wealizh:block/dian_re_qi__ce_",
+    "east": "wealizh:block/dian_re_qi__ce_",
+    "south": "wealizh:block/dian_re_qi__ce_",
+    "west": "wealizh:block/dian_re_qi__ce_",
+    "particle": "wealizh:block/dian_re_qi__di_"
+  },
+  "render_type": "solid"
+}

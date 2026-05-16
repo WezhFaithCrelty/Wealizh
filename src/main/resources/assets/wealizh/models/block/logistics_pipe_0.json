@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/wu_liu_guan_dao__dan_lian_jie_",
+  "textures": {
+    "all": "wealizh:block/wu_liu_guan_dao__dan_lian_jie_",
+    "particle": "wealizh:block/wu_liu_guan_dao_",
+    "1": "wealizh:block/wu_liu_guan_dao__dan_lian_jie_"
+  },
+  "render_type": "solid"
+}

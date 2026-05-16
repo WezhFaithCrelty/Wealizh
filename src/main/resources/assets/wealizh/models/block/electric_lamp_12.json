@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/dian_deng__13",
+    "particle": "wealizh:block/dian_deng_"
+  },
+  "render_type": "solid"
+}

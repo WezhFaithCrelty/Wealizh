@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/zhong_xing_bai_jing_ya_",
+  "textures": {
+    "all": "wealizh:block/zhong_xing_bai_jing_ya_",
+    "particle": "wealizh:block/zhong_xing_bai_jing_ya_",
+    "0": "wealizh:block/zhong_xing_bai_jing_ya_"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/wu_qiong_chu_tong_",
+  "textures": {
+    "all": "wealizh:block/wu_qiong_chu_tong_",
+    "particle": "wealizh:block/wu_qiong_chu_tong_",
+    "0": "wealizh:block/wu_qiong_chu_tong_"
+  },
+  "render_type": "solid"
+}
