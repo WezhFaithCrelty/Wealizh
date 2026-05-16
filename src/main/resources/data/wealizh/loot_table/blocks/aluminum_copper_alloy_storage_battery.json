@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "wealizh:blocks/aluminum_copper_alloy_storage_battery",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wealizh:aluminum_copper_alloy_storage_battery"
+        }
+      ]
+    }
+  ]
+}

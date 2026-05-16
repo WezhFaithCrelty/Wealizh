@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "wealizh:blocks/experience_release_device",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wealizh:experience_release_device"
+        }
+      ]
+    }
+  ]
+}
