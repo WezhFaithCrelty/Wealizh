@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/ni_tan_kuai_",
+    "particle": "wealizh:block/ni_tan_kuai_"
+  },
+  "render_type": "solid"
+}

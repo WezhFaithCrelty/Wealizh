@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/zhi_bian_tai_",
+  "textures": {
+    "all": "wealizh:block/zhi_bian_tai_",
+    "particle": "wealizh:block/zhi_bian_tai_",
+    "2": "wealizh:block/zhi_bian_tai_"
+  },
+  "render_type": "translucent"
+}

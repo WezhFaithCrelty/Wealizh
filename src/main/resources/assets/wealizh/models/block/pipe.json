@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/guan_dao_",
+  "textures": {
+    "all": "wealizh:block/guan_dao_",
+    "particle": "wealizh:block/guan_dao_",
+    "1": "wealizh:block/guan_dao_"
+  },
+  "render_type": "solid"
+}

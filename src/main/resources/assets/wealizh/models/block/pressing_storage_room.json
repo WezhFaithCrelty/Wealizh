@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/duan_ya_ji_di_shi_",
+    "up": "wealizh:block/duan_ya_ji_di_shi__ding_",
+    "north": "wealizh:block/duan_ya_ji_di_shi__ce_",
+    "east": "wealizh:block/duan_ya_ji_di_shi__ce_",
+    "south": "wealizh:block/duan_ya_ji_di_shi__ce_",
+    "west": "wealizh:block/duan_ya_ji_di_shi__ce_",
+    "particle": "wealizh:block/duan_ya_ji_di_shi_"
+  },
+  "render_type": "solid"
+}

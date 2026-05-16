@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/zhi_bian_huan_yuan_tai_3",
+    "up": "wealizh:block/zhi_bian_huan_yuan_tai_yun_xing_din",
+    "north": "wealizh:block/zhi_bian_huan_yuan_tai_",
+    "east": "wealizh:block/zhi_bian_huan_yuan_tai__yun_xing__ce_",
+    "south": "wealizh:block/zhi_bian_huan_yuan_tai_",
+    "west": "wealizh:block/zhi_bian_huan_yuan_tai__yun_xing__ce_",
+    "particle": "wealizh:block/zhi_bian_huan_yuan_tai_3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/feng_xiang__ding_",
+    "up": "wealizh:block/feng_xiang__ding_",
+    "north": "wealizh:block/du_ma_ling_shu_cang_tong_",
+    "east": "wealizh:block/du_ma_ling_shu_cang_tong_",
+    "south": "wealizh:block/du_ma_ling_shu_cang_tong_",
+    "west": "wealizh:block/du_ma_ling_shu_cang_tong_",
+    "particle": "wealizh:block/feng_xiang__ding_"
+  },
+  "render_type": "solid"
+}

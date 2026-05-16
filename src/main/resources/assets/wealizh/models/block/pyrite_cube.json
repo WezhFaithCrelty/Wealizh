@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/huang_tie_li_fang_",
+  "textures": {
+    "all": "wealizh:block/huang_tie_li_fang_",
+    "particle": "wealizh:block/huang_tie_kuai_",
+    "1": "wealizh:block/huang_tie_li_fang_"
+  },
+  "render_type": "solid"
+}

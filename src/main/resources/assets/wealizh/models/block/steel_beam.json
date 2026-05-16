@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/gang_liang_",
+  "textures": {
+    "all": "wealizh:block/gang_liang_",
+    "particle": "wealizh:block/ping_hua_gang_kuai_",
+    "1": "wealizh:block/gang_liang_"
+  },
+  "render_type": "solid"
+}

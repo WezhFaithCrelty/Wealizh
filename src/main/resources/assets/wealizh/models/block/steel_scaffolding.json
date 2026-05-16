@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/gang_jiao_shou_jia_",
+  "textures": {
+    "all": "wealizh:block/gang_jiao_shou_jia_",
+    "particle": "wealizh:block/ping_hua_gang_kuai_",
+    "0": "wealizh:block/gang_jiao_shou_jia_"
+  },
+  "render_type": "solid"
+}

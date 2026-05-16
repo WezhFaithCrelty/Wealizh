@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "wealizh:block/gang_kuai_",
+    "bottom": "wealizh:block/gang_kuai_",
+    "top": "wealizh:block/gang_kuai_",
+    "side": "wealizh:block/gang_kuai_"
+  },
+  "render_type": "solid"
+}
