@@ -1,0 +1,68 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snow",
+    "wealizh:lignite_ore",
+    {
+      "id": "#wealizh:stone",
+      "required": false
+    },
+    "wealizh:deepslate_graphite_ore",
+    "minecraft:snow_block",
+    {
+      "id": "#wealizh:planks_stair",
+      "required": false
+    },
+    {
+      "id": "#wealizh:containing_dirt",
+      "required": false
+    },
+    "minecraft:ice",
+    "minecraft:frosted_ice",
+    "wealizh:deepslate_lignite_ore",
+    "wealizh:graphite_ore",
+    {
+      "id": "#mincraft:leaves",
+      "required": false
+    },
+    "minecraft:coal_ore",
+    {
+      "id": "#wealizh:stone_wall",
+      "required": false
+    },
+    {
+      "id": "#wealizh:planks",
+      "required": false
+    },
+    "minecraft:packed_ice",
+    "minecraft:powder_snow",
+    {
+      "id": "#wealizh:planks_fence_gate",
+      "required": false
+    },
+    "minecraft:deepslate_coal_ore",
+    {
+      "id": "#wealizh:planks_slab",
+      "required": false
+    },
+    "wealizh:decayed_log",
+    {
+      "id": "#wealizh:stone_slab",
+      "required": false
+    },
+    {
+      "id": "#minecraft:logs",
+      "required": false
+    },
+    {
+      "id": "#wealizh:planks_fence",
+      "required": false
+    },
+    {
+      "id": "#wealizh:stone_stair",
+      "required": false
+    },
+    "minecraft:clay",
+    "minecraft:blue_ice"
+  ]
+}

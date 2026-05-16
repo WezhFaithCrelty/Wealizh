@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:button_battery",
+    "wealizh:empty_button_battery"
+  ]
+}

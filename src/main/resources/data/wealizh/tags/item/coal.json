@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:lignite",
+    "minecraft:coal",
+    "minecraft:charcoal"
+  ]
+}

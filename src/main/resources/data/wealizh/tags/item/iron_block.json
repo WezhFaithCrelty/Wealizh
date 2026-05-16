@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:bolt_iron_block",
+    "wealizh:smooth_iron_block",
+    "minecraft:iron_block"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:quantitative_transformation_substance_nucleus",
+    "wealizh:empty_substance_nucleus",
+    "wealizh:overpressure_qualitative_change_substance_nucleus",
+    "wealizh:qualitative_change_substance_nucleus"
+  ]
+}

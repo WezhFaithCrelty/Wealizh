@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wealizh:wire",
+      "required": false
+    },
+    {
+      "id": "#wealizh:storage_battery",
+      "required": false
+    },
+    "wealizh:electric_heater",
+    "wealizh:compressor",
+    "wealizh:pressing_storage_room",
+    "wealizh:crusher",
+    "wealizh:electric_lamp",
+    "wealizh:assembly_type_control_console",
+    "wealizh:centrifuge",
+    "wealizh:air_separator"
+  ]
+}

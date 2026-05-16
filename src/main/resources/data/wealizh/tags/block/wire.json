@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:wire",
+    "wealizh:concentrated_wire",
+    "wealizh:unidirectional_wire_valve"
+  ]
+}

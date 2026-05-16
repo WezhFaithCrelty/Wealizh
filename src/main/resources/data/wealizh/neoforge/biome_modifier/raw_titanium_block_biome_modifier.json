@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "wealizh:raw_titanium_block",
+  "step": "underground_ores"
+}

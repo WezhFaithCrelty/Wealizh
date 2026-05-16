@@ -1,0 +1,13 @@
+{
+  "asset_id": "wealizh:wealizh_logo",
+  "height": 2,
+  "width": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.wealizh.wealizh_logo.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.wealizh.wealizh_logo.author"
+  }
+}

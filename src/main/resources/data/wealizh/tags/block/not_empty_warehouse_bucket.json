@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:beetroot_warehouse_bucket",
+    "wealizh:sugar_cane_warehouse_bucket",
+    "wealizh:potato_warehouse_bucket",
+    "wealizh:golden_carrot_warehouse_bucket",
+    "wealizh:poisonous_potato_warehouse_bucket",
+    "wealizh:sweet_berries_warehouse_bucket",
+    "wealizh:humus_warehouse_bucket",
+    "wealizh:glistering_melon_slice_warehouse_bucket",
+    "wealizh:enchanted_golden_apple_warehouse_bucket",
+    "wealizh:apple_warehouse_bucket",
+    "wealizh:egg_warehouse_bucket",
+    "wealizh:golden_apple_warehouse_bucket",
+    "wealizh:glow_berries_warehouse_bucket",
+    "wealizh:carrot_warehouse_bucket"
+  ]
+}

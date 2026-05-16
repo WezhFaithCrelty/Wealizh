@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "wealizh:peat_block_d",
+  "step": "underground_ores"
+}

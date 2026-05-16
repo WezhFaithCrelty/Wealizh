@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:silver_gear_blade",
+    "wealizh:steel_gear_blade",
+    "wealizh:copper_gear_blade",
+    "wealizh:netherite_gear_blade",
+    "wealizh:iron_gear_blade"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:bs_radiations_origin",
+    "arrow",
+    "wealizh:large_scale_explosion_origin",
+    "falling_block",
+    "spectral_arrow",
+    "wealizh:pollution_source",
+    "wealizh:regional_erasure_origin",
+    "wealizh:empty_entity",
+    "splash_potion",
+    "item",
+    "trident",
+    "wealizh:mushroom_cloud_origin"
+  ]
+}

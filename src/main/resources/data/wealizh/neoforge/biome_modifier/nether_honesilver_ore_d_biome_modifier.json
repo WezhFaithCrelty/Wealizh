@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "wealizh:nether_honesilver_ore_d",
+  "step": "underground_ores"
+}

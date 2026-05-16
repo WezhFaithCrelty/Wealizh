@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "wealizh:nickel_ore_d",
+  "step": "underground_ores"
+}

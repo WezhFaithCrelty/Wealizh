@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:experience_nugget",
+    "wealizh:experience_solid_cube",
+    "wealizh:experience_particle",
+    "wealizh:experience_cube_nugget",
+    "wealizh:solid_experience",
+    "wealizh:experience_block"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:infested_cobblestone",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:deepslate",
+    "minecraft:tuff",
+    "minecraft:infested_stone",
+    "minecraft:mossy_cobblestone",
+    "wealizh:shale",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:polished_deepslate",
+    "minecraft:cobblestone"
+  ]
+}

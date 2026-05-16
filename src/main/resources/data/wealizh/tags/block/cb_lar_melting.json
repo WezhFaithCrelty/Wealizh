@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:suspicious_gravel",
+    "minecraft:suspicious_sand",
+    {
+      "id": "#wealizh:stone",
+      "required": false
+    },
+    "minecraft:bedrock",
+    "minecraft:sandstone",
+    "minecraft:calcite",
+    "minecraft:smooth_stone",
+    "wealizh:molten_high_temperature_solidified_substance",
+    {
+      "id": "#wealizh:containing_dirt",
+      "required": false
+    },
+    "minecraft:gravel",
+    "minecraft:sand",
+    "wealizh:charred_stone",
+    "minecraft:red_sand"
+  ]
+}

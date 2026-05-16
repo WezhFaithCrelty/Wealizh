@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tuff_wall",
+    "minecraft:diorite_wall",
+    "minecraft:cobblestone_wall",
+    "minecraft:mossy_cobblestone_wall",
+    "minecraft:granite_wall",
+    "minecraft:polished_deepslate_wall",
+    "minecraft:andesite_wall"
+  ]
+}

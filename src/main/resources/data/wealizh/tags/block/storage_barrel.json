@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:infinite_storage_barrel",
+    "wealizh:titanium_storage_barrel",
+    "wealizh:copper_storage_barrel",
+    "wealizh:iron_storage_barrel"
+  ]
+}

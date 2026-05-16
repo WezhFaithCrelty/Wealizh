@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:empty_battery",
+    "wealizh:empty_copper_core_battery",
+    "wealizh:empty_aluminum_copper_alloy_battery",
+    "wealizh:empty_button_battery"
+  ]
+}

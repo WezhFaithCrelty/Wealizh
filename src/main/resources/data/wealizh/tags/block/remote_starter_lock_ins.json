@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:nuclear_bomb",
+    "wealizh:detonator_block",
+    "wealizh:uranium_filled_bomb",
+    {
+      "id": "#wealizh:buttons",
+      "required": false
+    },
+    "minecraft:lever"
+  ]
+}

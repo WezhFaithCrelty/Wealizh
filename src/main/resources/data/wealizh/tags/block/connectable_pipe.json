@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wealizh:storage_barrel",
+      "required": false
+    },
+    "wealizh:centrifuge",
+    "wealizh:air_separator",
+    {
+      "id": "#wealizh:pipe",
+      "required": false
+    }
+  ]
+}

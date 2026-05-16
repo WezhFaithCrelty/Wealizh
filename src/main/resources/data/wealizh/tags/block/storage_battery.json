@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:aluminum_storage_battery",
+    "wealizh:aluminum_copper_alloy_storage_battery",
+    "wealizh:infinite_storage_battery",
+    "wealizh:storage_battery"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:firefly_bush",
+    "minecraft:brain_coral_wall_fan",
+    "minecraft:seagrass",
+    "minecraft:big_dripleaf",
+    "minecraft:cactus",
+    "minecraft:fire_coral_block",
+    "minecraft:glow_lichen",
+    "minecraft:brain_coral_block",
+    "minecraft:bamboo_sapling",
+    "minecraft:fire_coral",
+    "minecraft:small_dripleaf",
+    "minecraft:tube_coral_block",
+    "minecraft:horn_coral_block",
+    "minecraft:tube_coral",
+    "minecraft:moss_block",
+    "minecraft:big_dripleaf_stem",
+    "minecraft:moss_carpet",
+    "minecraft:mycelium",
+    "minecraft:brain_coral",
+    {
+      "id": "#wealizh:not_empty_warehouse_bucket",
+      "required": false
+    },
+    "minecraft:brain_coral_fan",
+    "minecraft:vine",
+    "minecraft:cave_vines_plant",
+    {
+      "id": "#minecraft:flowers",
+      "required": false
+    },
+    "minecraft:pumpkin",
+    "minecraft:bubble_coral_wall_fan",
+    "minecraft:pink_petals",
+    "minecraft:horn_coral_wall_fan",
+    "minecraft:fire_coral_wall_fan",
+    "minecraft:large_fern",
+    "minecraft:melon",
+    "minecraft:tall_grass",
+    "minecraft:kelp_plant",
+    "minecraft:tube_coral_wall_fan",
+    "minecraft:bubble_coral_fan",
+    "minecraft:fern",
+    "minecraft:tube_coral_fan",
+    "minecraft:wildflowers",
+    {
+      "id": "#minecraft:leaves",
+      "required": false
+    },
+    "minecraft:cave_vines",
+    "minecraft:horn_coral_fan",
+    "minecraft:spore_blossom",
+    "minecraft:short_grass",
+    "minecraft:sea_pickle",
+    "minecraft:cactus_flower",
+    "minecraft:podzol",
+    "minecraft:grass_block",
+    "minecraft:bush",
+    "minecraft:bubble_coral_block",
+    "minecraft:fire_coral_fan",
+    "minecraft:azalea",
+    "minecraft:flowering_azalea",
+    "minecraft:kelp",
+    {
+      "id": "#minecraft:crops",
+      "required": false
+    },
+    "minecraft:bubble_coral",
+    {
+      "id": "#minecraft:logs",
+      "required": false
+    },
+    "minecraft:tall_seagrass",
+    "minecraft:horn_coral",
+    "minecraft:bamboo",
+    "minecraft:sugar_cane",
+    {
+      "id": "#minecraft:saplings",
+      "required": false
+    }
+  ]
+}

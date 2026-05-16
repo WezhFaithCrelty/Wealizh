@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wealizh:unidirectional_pipe_valve",
+    "wealizh:pipe",
+    "wealizh:concentrated_pipe"
+  ]
+}
