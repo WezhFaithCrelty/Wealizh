@@ -1,0 +1,12 @@
+{
+  "type": "wealizh:decay_jei",
+  "ingredients": [
+    "wealizh:rock_crystal_block"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:quartz",
+      "count": 9
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "cba"
+  ],
+  "key": {
+    "a": "wealizh:brass_ingot",
+    "b": "minecraft:redstone",
+    "c": "wealizh:copper_plate",
+    "d": "wealizh:honesilver_powder"
+  },
+  "result": {
+    "id": "wealizh:neutron_fission_generator_honesilver",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:litytium_ingot"
+  },
+  "result": {
+    "id": "wealizh:litytium_block",
+    "count": 1
+  }
+}

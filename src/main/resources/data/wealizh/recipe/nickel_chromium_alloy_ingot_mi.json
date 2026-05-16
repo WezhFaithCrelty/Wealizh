@@ -1,0 +1,19 @@
+{
+  "type": "wealizh:mixed_smelting_jei",
+  "ingredients": [
+    "wealizh:nickel_ingot",
+    "wealizh:chromium_ingot",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:jei_empty_tag",
+    "#wealizh:burn"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:nickel_chromium_alloy_ingot",
+      "count": 1
+    }
+  ]
+}

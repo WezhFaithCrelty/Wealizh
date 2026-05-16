@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:netherite_ingot",
+    "#wealizh:gear_blade/level2"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:netherite_powder",
+      "count": 1
+    }
+  ]
+}

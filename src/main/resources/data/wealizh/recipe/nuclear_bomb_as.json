@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:steel_plate",
+    "wealizh:composite_gunpowder",
+    "wealizh:low_level_chips",
+    "wealizh:composite_gunpowder",
+    "wealizh:gold_thread",
+    "wealizh:composite_gunpowder",
+    "wealizh:detonator",
+    "wealizh:gold_thread",
+    "wealizh:gold_thread",
+    "wealizh:detonator",
+    "wealizh:composite_gunpowder",
+    "wealizh:gold_thread",
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "#wealizh:neutron_fission_generator",
+    "wealizh:uranium_ingot",
+    "wealizh:uranium_ingot",
+    "wealizh:uranium_235_billetsmaterial"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:nuclear_bomb",
+      "count": 1
+    }
+  ]
+}

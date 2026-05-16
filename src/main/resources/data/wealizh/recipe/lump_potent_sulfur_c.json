@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:potent_sulfur"
+  },
+  "result": {
+    "id": "wealizh:lump_potent_sulfur",
+    "count": 9
+  }
+}

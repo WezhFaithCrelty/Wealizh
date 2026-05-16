@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.7,
+  "cookingtime": 100,
+  "ingredient": "wealizh:lump_potent_sulfur",
+  "result": {
+    "id": "wealizh:lump_sulfur"
+  }
+}

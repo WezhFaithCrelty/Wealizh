@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:oak_slab",
+  "base": "wealizh:stone_powder",
+  "addition": "wealizh:petrified_forging_template",
+  "result": {
+    "id": "minecraft:petrified_oak_slab"
+  }
+}

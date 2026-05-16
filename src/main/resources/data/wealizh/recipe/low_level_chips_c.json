@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ggg"
+  ],
+  "key": {
+    "a": "minecraft:redstone",
+    "b": "wealizh:red_copper_thread",
+    "c": "wealizh:copper_nugget",
+    "d": "wealizh:aluminum_ingot",
+    "e": "minecraft:iron_ingot",
+    "f": "wealizh:zinc_ingot",
+    "g": "wealizh:gold_thread"
+  },
+  "result": {
+    "id": "wealizh:low_level_chips",
+    "count": 1
+  }
+}

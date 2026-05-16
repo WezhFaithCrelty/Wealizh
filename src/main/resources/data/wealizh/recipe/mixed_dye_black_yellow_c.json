@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:yellow_dye",
+    "minecraft:black_dye",
+    "minecraft:black_dye",
+    "minecraft:yellow_dye"
+  ],
+  "result": {
+    "id": "wealizh:mixed_dye_black_yellow",
+    "count": 4
+  }
+}

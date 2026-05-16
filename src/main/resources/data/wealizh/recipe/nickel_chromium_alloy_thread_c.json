@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:nickel_chromium_alloy_ingot",
+    "b": "wealizh:nickel_chromium_alloy_nugget"
+  },
+  "result": {
+    "id": "wealizh:nickel_chromium_alloy_thread",
+    "count": 2
+  }
+}

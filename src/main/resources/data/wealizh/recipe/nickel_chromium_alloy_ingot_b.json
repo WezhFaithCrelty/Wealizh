@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.1,
+  "cookingtime": 200,
+  "ingredient": "wealizh:nickel_chromium_alloy_powder",
+  "result": {
+    "id": "wealizh:nickel_chromium_alloy_ingot"
+  }
+}

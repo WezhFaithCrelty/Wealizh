@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:nickel_block"
+  },
+  "result": {
+    "id": "wealizh:nickel_ingot",
+    "count": 9
+  }
+}

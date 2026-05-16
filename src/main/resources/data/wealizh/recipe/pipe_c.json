@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:silver_plate",
+    "b": "wealizh:steel_pipe"
+  },
+  "result": {
+    "id": "wealizh:pipe",
+    "count": 3
+  }
+}

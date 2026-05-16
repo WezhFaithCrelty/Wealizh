@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:netherite_nugget",
+    "b": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "wealizh:netherite_gear_blade",
+    "count": 1
+  }
+}

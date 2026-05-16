@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:crush_jei",
+  "ingredients": [
+    "minecraft:ancient_debris",
+    "#wealizh:gear_blade/level2"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:netherite_scrap",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": "wealizh:silver_nugget",
+    "b": "minecraft:paper"
+  },
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}

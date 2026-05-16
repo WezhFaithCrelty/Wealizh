@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "eee"
+  ],
+  "key": {
+    "a": "wealizh:brass_ingot",
+    "b": "minecraft:redstone",
+    "c": "minecraft:piston",
+    "d": "minecraft:iron_trapdoor",
+    "e": "wealizh:zinc_plate"
+  },
+  "result": {
+    "id": "wealizh:placer",
+    "count": 1
+  }
+}

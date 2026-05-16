@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "wealizh:fluid_tank_milk",
+    "b": "minecraft:bucket"
+  },
+  "result": {
+    "id": "minecraft:milk_bucket",
+    "count": 1
+  }
+}

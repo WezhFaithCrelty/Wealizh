@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "ba "
+  ],
+  "key": {
+    "a": "wealizh:nickel_ingot",
+    "b": "wealizh:nickel_nugget"
+  },
+  "result": {
+    "id": "wealizh:nickel_thread",
+    "count": 2
+  }
+}

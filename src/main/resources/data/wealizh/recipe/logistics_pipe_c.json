@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc",
+    "aba"
+  ],
+  "key": {
+    "a": "wealizh:steel_plate",
+    "b": "wealizh:copper_nugget",
+    "c": "wealizh:steel_pipe"
+  },
+  "result": {
+    "id": "wealizh:logistics_pipe",
+    "count": 3
+  }
+}

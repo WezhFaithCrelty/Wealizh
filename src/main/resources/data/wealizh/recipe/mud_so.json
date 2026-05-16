@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:soaking_jei",
+  "ingredients": [
+    "#wealizh:canturn_mud",
+    "wealizh:water"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:mud",
+      "count": 1
+    }
+  ]
+}
