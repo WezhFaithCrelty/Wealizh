@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/duan_ya_ji_di_shi__ding_",
+    "up": "wealizh:block/ya_suo_ji__ding_",
+    "north": "wealizh:block/ya_suo_shi_",
+    "east": "wealizh:block/ya_suo_shi_",
+    "south": "wealizh:block/ya_suo_shi_",
+    "west": "wealizh:block/ya_suo_shi_",
+    "particle": "wealizh:block/duan_ya_ji_di_shi__ding_"
+  },
+  "render_type": "solid"
+}

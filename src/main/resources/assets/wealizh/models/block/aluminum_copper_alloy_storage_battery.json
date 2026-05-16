@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/lu_tong_he_jin_xu_dian_chi_2",
+    "up": "wealizh:block/lu_tong_he_jin_xu_dian_chi_3",
+    "north": "wealizh:block/lu_tong_he_jin_xu_dian_chi_",
+    "east": "wealizh:block/lu_tong_he_jin_xu_dian_chi_",
+    "south": "wealizh:block/lu_tong_he_jin_xu_dian_chi_",
+    "west": "wealizh:block/lu_tong_he_jin_xu_dian_chi_",
+    "particle": "wealizh:block/lu_tong_he_jin_xu_dian_chi_2"
+  },
+  "render_type": "solid"
+}

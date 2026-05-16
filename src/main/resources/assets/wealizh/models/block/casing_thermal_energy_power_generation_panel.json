@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/bao_ke_re_neng_huan_dian_ban_-ce_2",
+    "up": "wealizh:block/bao_ke_re_neng_huan_dian_ban_",
+    "north": "wealizh:block/bao_ke_re_neng_huan_dian_ban__ding_",
+    "east": "wealizh:block/bao_ke_re_neng_huan_dian_ban_-ce_",
+    "south": "wealizh:block/bao_ke_re_neng_huan_dian_ban__di_",
+    "west": "wealizh:block/bao_ke_re_neng_huan_dian_ban_-ce_3",
+    "particle": "wealizh:block/bao_ke_re_neng_huan_dian_ban_-ce_2"
+  },
+  "render_type": "solid"
+}

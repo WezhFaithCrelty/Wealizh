@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "wealizh:block/gu_hua_bo_li_",
+    "particle": "wealizh:block/gu_hua_bo_li_"
+  },
+  "render_type": "translucent"
+}

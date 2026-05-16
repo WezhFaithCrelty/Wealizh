@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "wealizh:block/jiao_shi_",
+    "particle": "wealizh:block/jiao_shi_"
+  },
+  "render_type": "solid"
+}

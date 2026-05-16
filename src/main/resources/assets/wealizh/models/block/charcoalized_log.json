@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/tan_hua_yuan_mu__ding_",
+    "up": "wealizh:block/tan_hua_yuan_mu__ding_",
+    "north": "wealizh:block/tan_hua_yuan_mu_",
+    "east": "wealizh:block/tan_hua_yuan_mu_",
+    "south": "wealizh:block/tan_hua_yuan_mu_",
+    "west": "wealizh:block/tan_hua_yuan_mu_",
+    "particle": "wealizh:block/tan_hua_yuan_mu__ding_"
+  },
+  "render_type": "solid"
+}

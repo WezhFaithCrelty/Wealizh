@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/hong_zhuan_yan_cong_kou_",
+    "up": "wealizh:block/hong_zhuan_yan_cong_kou_",
+    "north": "minecraft:block/bricks",
+    "east": "minecraft:block/bricks",
+    "south": "minecraft:block/bricks",
+    "west": "minecraft:block/bricks",
+    "particle": "wealizh:block/hong_zhuan_yan_cong_kou_"
+  },
+  "render_type": "solid"
+}

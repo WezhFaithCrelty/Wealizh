@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/fen_sui_ji__ding_",
+    "up": "wealizh:block/fen_sui_ji__ding_",
+    "north": "wealizh:block/fen_sui_ji_",
+    "east": "wealizh:block/fen_sui_ji__ce_",
+    "south": "wealizh:block/fen_sui_ji__ce_",
+    "west": "wealizh:block/fen_sui_ji__ce_",
+    "particle": "wealizh:block/fen_sui_ji__ding_"
+  },
+  "render_type": "solid"
+}

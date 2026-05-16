@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/ran_shao_shi_4",
+    "up": "wealizh:block/ran_shao_shi_din_ling_hun_ran_shao",
+    "north": "wealizh:block/ran_shao_shi_",
+    "east": "wealizh:block/ran_shao_shi_3",
+    "south": "wealizh:block/ran_shao_shi_3",
+    "west": "wealizh:block/ran_shao_shi_3",
+    "particle": "wealizh:block/ran_shao_shi_4"
+  },
+  "render_type": "solid"
+}

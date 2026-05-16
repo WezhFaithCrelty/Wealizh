@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/chi_xin_ji_",
+  "textures": {
+    "all": "wealizh:block/chi_xin_ji_",
+    "particle": "minecraft:block/smooth_stone",
+    "0": "wealizh:block/chi_xin_ji_"
+  },
+  "render_type": "solid"
+}

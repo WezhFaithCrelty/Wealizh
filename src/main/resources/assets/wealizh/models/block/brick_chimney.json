@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/hong_zhuan_yan_cong_",
+  "textures": {
+    "all": "wealizh:block/hong_zhuan_yan_cong_",
+    "particle": "wealizh:block/hong_zhuan_yan_cong_",
+    "missing": "wealizh:block/hong_zhuan_yan_cong_"
+  },
+  "render_type": "solid"
+}

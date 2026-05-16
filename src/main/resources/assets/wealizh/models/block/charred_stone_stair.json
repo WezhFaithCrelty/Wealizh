@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "wealizh:block/jiao_shi_",
+    "bottom": "wealizh:block/jiao_shi_",
+    "top": "wealizh:block/jiao_shi_",
+    "side": "wealizh:block/jiao_shi_"
+  },
+  "render_type": "solid"
+}

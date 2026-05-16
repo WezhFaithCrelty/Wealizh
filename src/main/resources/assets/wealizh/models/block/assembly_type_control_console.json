@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/tie_kuai_",
+    "up": "wealizh:block/tie_kuai_",
+    "north": "wealizh:block/zhuang_pei_xing_kong_zhi_tai_",
+    "east": "wealizh:block/tie_kuai_",
+    "south": "wealizh:block/zhuang_pei_shi__ding_",
+    "west": "wealizh:block/tie_kuai_",
+    "particle": "wealizh:block/tie_kuai_"
+  },
+  "render_type": "solid"
+}

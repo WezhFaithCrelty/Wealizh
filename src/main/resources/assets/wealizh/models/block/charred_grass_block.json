@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/ni_tu_",
+    "up": "wealizh:block/shao_jiao_de_cao_fang_kuai__ding_",
+    "north": "wealizh:block/shao_jiao_de_cao_fang_kuai_",
+    "east": "wealizh:block/shao_jiao_de_cao_fang_kuai_",
+    "south": "wealizh:block/shao_jiao_de_cao_fang_kuai_",
+    "west": "wealizh:block/shao_jiao_de_cao_fang_kuai_",
+    "particle": "wealizh:block/ni_tu_"
+  },
+  "render_type": "solid"
+}

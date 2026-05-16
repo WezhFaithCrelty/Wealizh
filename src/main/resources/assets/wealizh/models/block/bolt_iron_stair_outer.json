@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "wealizh:block/liu_ding_tie_kuai_",
+    "bottom": "wealizh:block/liu_ding_tie_kuai_",
+    "top": "wealizh:block/liu_ding_tie_kuai_",
+    "side": "wealizh:block/liu_ding_tie_kuai_"
+  },
+  "render_type": "solid"
+}

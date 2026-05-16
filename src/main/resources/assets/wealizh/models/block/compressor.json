@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/ya_suo_ji__di_",
+    "up": "wealizh:block/ya_suo_ji__ding_",
+    "north": "wealizh:block/ya_suo_ji_",
+    "east": "wealizh:block/ya_suo_ji_",
+    "south": "wealizh:block/ya_suo_ji_",
+    "west": "wealizh:block/ya_suo_ji_",
+    "particle": "wealizh:block/ya_suo_ji_"
+  },
+  "render_type": "solid"
+}

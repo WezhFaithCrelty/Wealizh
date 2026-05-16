@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/xiu_mu__ding_",
+    "up": "wealizh:block/xiu_mu__ding_",
+    "north": "wealizh:block/xiu_mu_",
+    "east": "wealizh:block/xiu_mu_",
+    "south": "wealizh:block/xiu_mu_",
+    "west": "wealizh:block/xiu_mu_",
+    "particle": "wealizh:block/xiu_mu__ding_"
+  },
+  "render_type": "solid"
+}

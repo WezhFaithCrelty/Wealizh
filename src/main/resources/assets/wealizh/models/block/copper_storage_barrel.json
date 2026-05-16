@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/tong_chu_tong_",
+  "textures": {
+    "all": "wealizh:block/tong_chu_tong_",
+    "particle": "wealizh:block/tong_chu_tong_",
+    "0": "wealizh:block/tong_chu_tong_"
+  },
+  "render_type": "solid"
+}

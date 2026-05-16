@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "wealizh:block/gu_hua_bo_li_",
+    "pane": "wealizh:block/gu_hua_bo_li_",
+    "edge": "wealizh:block/gu_hua_bo_li_ban_-ding_"
+  },
+  "render_type": "translucent"
+}

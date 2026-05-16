@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/chi_xin_ji_zhuan_guan_",
+  "textures": {
+    "all": "wealizh:block/chi_xin_ji_zhuan_guan_",
+    "particle": "minecraft:block/iron_block",
+    "1": "wealizh:block/chi_xin_ji_zhuan_guan_"
+  },
+  "render_type": "solid"
+}
