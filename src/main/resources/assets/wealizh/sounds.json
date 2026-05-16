@@ -1,0 +1,252 @@
+{
+  "loading_and_unloading": {
+    "subtitle": "subtitles.loading_and_unloading",
+    "sounds": [
+      {
+        "name": "wealizh:zhuang_xie_",
+        "stream": false
+      },
+      {
+        "name": "wealizh:zhuang_xie_2",
+        "stream": false
+      },
+      {
+        "name": "wealizh:zhuang_xie_3",
+        "stream": false
+      },
+      {
+        "name": "wealizh:zhuang_xie_4",
+        "stream": false
+      },
+      {
+        "name": "wealizh:zhuang_xie_5",
+        "stream": false
+      }
+    ]
+  },
+  "empty_discharge": {
+    "subtitle": "subtitles.empty_discharge",
+    "sounds": [
+      {
+        "name": "wealizh:kong_xie_",
+        "stream": false
+      },
+      {
+        "name": "wealizh:kong_xie_2",
+        "stream": false
+      }
+    ]
+  },
+  "combustion_chamber_type_mechanical_combustion": {
+    "subtitle": "subtitles.combustion_chamber_type_mechanical_combustion",
+    "sounds": [
+      {
+        "name": "wealizh:ran_shao_shi_lei_ji_jie_ran_shao_",
+        "stream": false
+      }
+    ]
+  },
+  "mechanical_click": {
+    "subtitle": "subtitles.mechanical_click",
+    "sounds": [
+      {
+        "name": "wealizh:ji_jie_ka_ta_",
+        "stream": false
+      }
+    ]
+  },
+  "power_outage": {
+    "subtitle": "subtitles.power_outage",
+    "sounds": [
+      {
+        "name": "wealizh:la_zha_",
+        "stream": false
+      },
+      {
+        "name": "wealizh:la_zha_2",
+        "stream": false
+      }
+    ]
+  },
+  "assembly": {
+    "subtitle": "subtitles.assembly",
+    "sounds": [
+      {
+        "name": "wealizh:zhuang_pei_",
+        "stream": false
+      }
+    ]
+  },
+  "crusher_operation": {
+    "subtitle": "subtitles.crusher_operation",
+    "sounds": [
+      {
+        "name": "wealizh:fen_sui_ji_yun_xing_",
+        "stream": false
+      }
+    ]
+  },
+  "pressing_machine_forging": {
+    "subtitle": "subtitles.pressing_machine_forging",
+    "sounds": [
+      {
+        "name": "wealizh:duan_ya_ji_duan_ya_",
+        "stream": false
+      }
+    ]
+  },
+  "piston_group_drive_mechanism": {
+    "subtitle": "subtitles.piston_group_drive_mechanism",
+    "sounds": [
+      {
+        "name": "wealizh:huo_sai_zu_qu_dong_",
+        "stream": false
+      }
+    ]
+  },
+  "buzzer_beep": {
+    "subtitle": "subtitles.buzzer_beep",
+    "sounds": [
+      {
+        "name": "wealizh:feng_ming_qi_bi_bo_",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick": {
+    "subtitle": "subtitles.geiger_counter_tick",
+    "sounds": [
+      {
+        "name": "wealizh:geiger1",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick2": {
+    "subtitle": "subtitles.geiger_counter_tick2",
+    "sounds": [
+      {
+        "name": "wealizh:geiger2",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick3": {
+    "subtitle": "subtitles.geiger_counter_tick3",
+    "sounds": [
+      {
+        "name": "wealizh:geiger3",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick4": {
+    "subtitle": "subtitles.geiger_counter_tick4",
+    "sounds": [
+      {
+        "name": "wealizh:geiger4",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick5": {
+    "subtitle": "subtitles.geiger_counter_tick5",
+    "sounds": [
+      {
+        "name": "wealizh:geiger5",
+        "stream": false
+      }
+    ]
+  },
+  "geiger_counter_tick6": {
+    "subtitle": "subtitles.geiger_counter_tick6",
+    "sounds": [
+      {
+        "name": "wealizh:geiger6",
+        "stream": false
+      }
+    ]
+  },
+  "pull_the_slide_catch": {
+    "subtitle": "subtitles.pull_the_slide_catch",
+    "sounds": [
+      {
+        "name": "wealizh:la_hua_shuan_",
+        "stream": false
+      }
+    ]
+  },
+  "centrifuge_function": {
+    "subtitle": "subtitles.centrifuge_function",
+    "sounds": [
+      {
+        "name": "wealizh:chi_xin_ji_yun_xing_",
+        "stream": false
+      }
+    ]
+  },
+  "storage_barrel_open": {
+    "subtitle": "subtitles.storage_barrel_open",
+    "sounds": [
+      {
+        "name": "wealizh:chu_tong_da_kai_",
+        "stream": false
+      }
+    ]
+  },
+  "storage_barrel_close": {
+    "subtitle": "subtitles.storage_barrel_close",
+    "sounds": [
+      {
+        "name": "wealizh:chu_tong_guan_bi_",
+        "stream": false
+      }
+    ]
+  },
+  "steel_collision": {
+    "subtitle": "subtitles.steel_collision",
+    "sounds": [
+      {
+        "name": "wealizh:gang_tie_peng_zhuang_",
+        "stream": false
+      },
+      {
+        "name": "wealizh:gang_tie_peng_zhuang_2",
+        "stream": false
+      },
+      {
+        "name": "wealizh:gang_tie_peng_zhuang_3",
+        "stream": false
+      },
+      {
+        "name": "wealizh:gang_tie_peng_zhuang_4",
+        "stream": false
+      }
+    ]
+  },
+  "tinnitus": {
+    "sounds": [
+      {
+        "name": "wealizh:er_ming_1",
+        "stream": false
+      },
+      {
+        "name": "wealizh:er_ming_2",
+        "stream": false
+      },
+      {
+        "name": "wealizh:er_ming_3",
+        "stream": false
+      }
+    ]
+  },
+  "large_scale_explosion": {
+    "subtitle": "subtitles.large_scale_explosion",
+    "sounds": [
+      {
+        "name": "wealizh:da_xing_bao_zha_",
+        "stream": false
+      }
+    ]
+  }
+}
