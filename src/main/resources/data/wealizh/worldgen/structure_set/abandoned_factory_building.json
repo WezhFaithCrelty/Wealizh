@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "wealizh:abandoned_factory_building",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 56,
+    "separation": 48,
+    "salt": 1415894152
+  }
+}

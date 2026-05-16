@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "wealizh:abandoned_broadcasting_station",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 56,
+    "salt": 34689490
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "feature": "wealizh:saltpeter_ore_d",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": -2
+        },
+        "max_inclusive": {
+          "absolute": 233
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
