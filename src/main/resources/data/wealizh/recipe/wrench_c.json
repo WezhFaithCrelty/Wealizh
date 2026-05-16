@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    " a ",
+    "aa "
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wealizh:wrench",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "wealizh:soaking_jei",
+  "ingredients": [
+    "minecraft:yellow_concrete_powder",
+    "wealizh:water"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:yellow_concrete",
+      "count": 1
+    }
+  ]
+}

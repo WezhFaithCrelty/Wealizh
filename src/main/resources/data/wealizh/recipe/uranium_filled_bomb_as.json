@@ -1,0 +1,31 @@
+{
+  "type": "wealizh:assembly_jei",
+  "ingredients": [
+    "wealizh:detonator_block",
+    "wealizh:detonator_block",
+    "wealizh:detonator_block",
+    "wealizh:detonator_block",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "wealizh:composite_gunpowder",
+    "minecraft:redstone",
+    "wealizh:gold_thread",
+    "wealizh:gold_thread",
+    "wealizh:steel_plate",
+    "wealizh:uranium_block",
+    "wealizh:uranium_block",
+    "wealizh:uranium_block",
+    "wealizh:uranium_block"
+  ],
+  "outputs": [
+    {
+      "id": "wealizh:uranium_filled_bomb",
+      "count": 1
+    }
+  ]
+}

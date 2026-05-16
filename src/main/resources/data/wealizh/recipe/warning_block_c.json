@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "wealizh:mixed_dye_black_yellow",
+    "b": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "wealizh:warning_block",
+    "count": 1
+  }
+}

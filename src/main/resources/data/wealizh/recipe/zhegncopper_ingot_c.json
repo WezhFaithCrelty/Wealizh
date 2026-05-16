@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "wealizh:zhegncopper_block"
+  },
+  "result": {
+    "id": "wealizh:zhegncopper_ingot",
+    "count": 9
+  }
+}

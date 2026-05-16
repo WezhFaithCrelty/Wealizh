@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "wealizh:studio_door",
+    "b": "minecraft:honeycomb"
+  },
+  "result": {
+    "id": "wealizh:waxed_studio_door",
+    "count": 1
+  }
+}

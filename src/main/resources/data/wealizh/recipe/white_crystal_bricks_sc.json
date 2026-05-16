@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "wealizh:white_crystal_block",
+  "result": {
+    "id": "wealizh:white_crystal_bricks",
+    "count": 1
+  }
+}

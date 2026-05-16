@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:red_copper_cable"
+  },
+  "result": {
+    "id": "wealizh:wire",
+    "count": 2
+  }
+}

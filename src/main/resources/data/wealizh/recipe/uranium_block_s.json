@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 9,
+  "cookingtime": 3000,
+  "ingredient": "wealizh:raw_uranium_block",
+  "result": {
+    "id": "wealizh:uranium_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "wealizh:zinc_ingot"
+  },
+  "result": {
+    "id": "wealizh:zinc_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "eee"
+  ],
+  "key": {
+    "a": "wealizh:copper_thread",
+    "b": "minecraft:amethyst_shard",
+    "c": "wealizh:red_copper_thread",
+    "d": "wealizh:aluminum_thread",
+    "e": "wealizh:insulation_board"
+  },
+  "result": {
+    "id": "wealizh:voltage_regulator",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "wealizh:white_crystal_shard",
+    "b": "wealizh:white_crystal_block"
+  },
+  "result": {
+    "id": "wealizh:white_crystal_bricks",
+    "count": 2
+  }
+}

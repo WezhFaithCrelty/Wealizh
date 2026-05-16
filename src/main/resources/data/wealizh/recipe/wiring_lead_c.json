@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:gunpowder",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "wealizh:wiring_lead",
+    "count": 2
+  }
+}
