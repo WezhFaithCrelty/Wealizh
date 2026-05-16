@@ -1,0 +1,14 @@
+package net.mcreator.wealizh.block;
+
+import net.minecraft.world.level.material.PushReaction;
+import net.minecraft.world.level.material.MapColor;
+import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.block.SoundType;
+import net.minecraft.world.level.block.Block;
+
+public class ShaleBlock extends Block {
+	public ShaleBlock(BlockBehaviour.Properties properties) {
+		super(properties.mapColor(MapColor.COLOR_GRAY).sound(SoundType.TUFF).strength(5f, 4f).requiresCorrectToolForDrops().pushReaction(PushReaction.BLOCK).instrument(NoteBlockInstrument.BASEDRUM));
+	}
+}
