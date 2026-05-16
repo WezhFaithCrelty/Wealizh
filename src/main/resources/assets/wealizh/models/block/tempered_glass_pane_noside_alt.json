@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "wealizh:block/gang_hua_bo_li_",
+    "particle": "wealizh:block/gang_hua_bo_li_"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/xu_dian_chi__di_",
+    "up": "wealizh:block/xu_dian_chi__ding_",
+    "north": "wealizh:block/xu_dian_chi_",
+    "east": "wealizh:block/xu_dian_chi_",
+    "south": "wealizh:block/xu_dian_chi_",
+    "west": "wealizh:block/xu_dian_chi_",
+    "particle": "wealizh:block/xu_dian_chi__di_"
+  },
+  "render_type": "solid"
+}

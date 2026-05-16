@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/dan_xiang_guan_dao_fa_",
+  "textures": {
+    "all": "wealizh:block/dan_xiang_guan_dao_fa_",
+    "particle": "wealizh:block/dan_xiang_guan_dao_fa_",
+    "0": "wealizh:block/dan_xiang_guan_dao_fa_"
+  },
+  "render_type": "solid"
+}

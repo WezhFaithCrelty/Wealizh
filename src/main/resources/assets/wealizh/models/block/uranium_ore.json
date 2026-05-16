@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wealizh:block/you_kuang_shi_",
+    "particle": "wealizh:block/you_kuang_shi_"
+  },
+  "render_type": "solid"
+}

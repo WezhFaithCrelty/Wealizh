@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/bai_shui_jing_cu_",
+  "textures": {
+    "all": "wealizh:block/bai_shui_jing_cu_",
+    "particle": "wealizh:block/bai_shui_jing_cu_",
+    "0": "wealizh:block/bai_shui_jing_cu_"
+  },
+  "render_type": "cutout"
+}

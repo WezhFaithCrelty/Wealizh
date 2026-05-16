@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/re_neng_huan_dian_ban_",
+  "textures": {
+    "all": "wealizh:block/re_neng_huan_dian_ban_",
+    "particle": "wealizh:block/re_neng_huan_dian_ban_",
+    "0": "wealizh:block/re_neng_huan_dian_ban_"
+  },
+  "render_type": "solid"
+}

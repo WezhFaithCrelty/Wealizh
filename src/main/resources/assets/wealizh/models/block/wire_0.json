@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/dian_xian__dan_lian_jie_",
+  "textures": {
+    "all": "wealizh:block/dian_xian__dan_lian_jie_",
+    "particle": "wealizh:block/dian_xian_",
+    "0": "wealizh:block/dian_xian__dan_lian_jie_"
+  },
+  "render_type": "solid"
+}

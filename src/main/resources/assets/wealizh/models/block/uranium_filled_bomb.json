@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wealizh:block/chong_you_zha_yao__di_",
+    "up": "wealizh:block/chong_you_zha_yao__ding_",
+    "north": "wealizh:block/chong_you_zha_yao_",
+    "east": "wealizh:block/chong_you_zha_yao_",
+    "south": "wealizh:block/chong_you_zha_yao_",
+    "west": "wealizh:block/chong_you_zha_yao_",
+    "particle": "wealizh:block/chong_you_zha_yao__di_"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "wealizh:custom/cang_tong_",
+  "textures": {
+    "all": "wealizh:block/cang_tong_",
+    "particle": "minecraft:block/beehive_end",
+    "1": "wealizh:block/cang_tong_"
+  },
+  "render_type": "cutout"
+}

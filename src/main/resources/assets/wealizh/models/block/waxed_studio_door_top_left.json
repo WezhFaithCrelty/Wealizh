@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left",
+  "textures": {
+    "particle": "wealizh:block/gong_zuo_shi_men__di_",
+    "bottom": "wealizh:block/gong_zuo_shi_men__di_",
+    "top": "wealizh:block/gong_zuo_shi_men_"
+  },
+  "render_type": "solid"
+}
