@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/wu_qiong_chi_shu_guan_xiao_hao_mo_shi"
+  }
+}

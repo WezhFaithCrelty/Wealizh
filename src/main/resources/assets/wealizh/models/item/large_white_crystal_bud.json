@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/da_xing_bai_jing_ya__i"
+  },
+  "render_type": "translucent"
+}

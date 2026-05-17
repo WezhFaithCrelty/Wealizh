@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/gai_ge_ji_shu_qi_"
+  }
+}

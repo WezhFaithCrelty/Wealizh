@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/wei_ding_yi_wu_zhi_"
+  },
+  "render_type": "translucent"
+}

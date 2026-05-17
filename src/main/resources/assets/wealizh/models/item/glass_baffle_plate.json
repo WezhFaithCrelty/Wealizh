@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/bo_li_zhe_ban__i"
+  },
+  "render_type": "translucent"
+}

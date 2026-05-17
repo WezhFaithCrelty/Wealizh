@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/shou_yao_fa_dian_ji__i"
+  },
+  "render_type": "translucent"
+}
