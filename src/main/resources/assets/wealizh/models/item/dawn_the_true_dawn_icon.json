@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/li_ming_zhen_zheng_de_li_ming_tu_biao_"
+  }
+}

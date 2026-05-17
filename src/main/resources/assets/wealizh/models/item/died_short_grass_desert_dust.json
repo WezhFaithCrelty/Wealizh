@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:block/ku_ai_cao_cong__fei_tu_"
+  }
+}

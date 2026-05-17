@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/jing_yan_shi_fang_qi__i"
+  },
+  "render_type": "translucent"
+}
