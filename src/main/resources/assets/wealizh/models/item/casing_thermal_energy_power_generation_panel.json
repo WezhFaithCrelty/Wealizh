@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/bao_ke_re_neng_huan_dian_ban__i"
+  },
+  "render_type": "translucent"
+}

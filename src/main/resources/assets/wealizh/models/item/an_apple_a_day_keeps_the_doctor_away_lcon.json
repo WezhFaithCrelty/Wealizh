@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/_tian__ping_guo_yi_sheng_yuan_chi_wo_"
+  }
+}

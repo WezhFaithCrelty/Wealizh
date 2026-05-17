@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/nong_suo_liu_fu_hua_you_"
+  }
+}

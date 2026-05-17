@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:block/gu_hua_bo_li_"
+  },
+  "render_type": "translucent"
+}

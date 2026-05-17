@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/ya_suo_lu_tong_he_jin_"
+  }
+}
