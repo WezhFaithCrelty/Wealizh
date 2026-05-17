@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/guai_yi_de_shi_zhong_"
+  }
+}

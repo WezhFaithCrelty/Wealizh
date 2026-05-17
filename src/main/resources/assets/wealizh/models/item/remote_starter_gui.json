@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/yuan_cheng_qi_dong_qi__i"
+  }
+}

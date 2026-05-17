@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/fang_fang_zheng_zheng_nohuang_tie_li_fang_"
+  }
+}

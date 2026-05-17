@@ -1,0 +1,7 @@
+{
+  "parent": "wealizh:custom/yuan_cheng_qi_dong_qi_",
+  "textures": {
+    "0": "wealizh:block/yuan_cheng_qi_dong_qi_",
+    "particle": "wealizh:item/yuan_cheng_qi_dong_qi__i"
+  }
+}

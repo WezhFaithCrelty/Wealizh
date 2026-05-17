@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/lin_shi_fang_kuai_"
+  },
+  "render_type": "translucent"
+}
