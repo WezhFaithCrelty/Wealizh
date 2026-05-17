@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/dan_xiang_dian_xian_fa__i"
+  },
+  "render_type": "translucent"
+}

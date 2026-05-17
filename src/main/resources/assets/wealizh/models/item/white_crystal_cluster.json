@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/bai_shui_jing_cu_"
+  },
+  "render_type": "translucent"
+}
