@@ -1,3 +1,5 @@
+The workspace is usually sent out along with the version.
+
 # Overview
 - The mod does not significantly alter the gameplay of the original Minecraft, but adds some new content.
 - Most of the content in this mod has real-world prototypes, but it also incorporates some imaginative elements.
