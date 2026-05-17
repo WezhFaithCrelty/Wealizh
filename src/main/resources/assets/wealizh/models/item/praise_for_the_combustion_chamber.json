@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/ran_shao_shi_nodian_zan_"
+  }
+}

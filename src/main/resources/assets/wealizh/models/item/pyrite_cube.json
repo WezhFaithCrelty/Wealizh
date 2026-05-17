@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/huang_tie_"
+  },
+  "render_type": "translucent"
+}

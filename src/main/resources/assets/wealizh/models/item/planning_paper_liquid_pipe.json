@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/ji_hua_zhi_ye_guan_"
+  }
+}

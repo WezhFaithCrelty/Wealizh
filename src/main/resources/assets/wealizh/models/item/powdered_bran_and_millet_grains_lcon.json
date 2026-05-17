@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/nie_pan_ji_fen_tu_biao_"
+  }
+}

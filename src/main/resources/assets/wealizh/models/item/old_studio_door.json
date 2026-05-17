@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/lao_jiu_de_gong_zuo_shi_men__i"
+  },
+  "render_type": "translucent"
+}

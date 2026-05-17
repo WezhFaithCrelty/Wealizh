@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/zhong_zi_po_fang_qi_-mi_yin_"
+  }
+}

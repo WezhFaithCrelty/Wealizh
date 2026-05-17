@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/guan_dao__i"
+  },
+  "render_type": "translucent"
+}

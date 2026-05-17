@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wealizh:item/xia_jie_shi_ying_fen_"
+  }
+}
